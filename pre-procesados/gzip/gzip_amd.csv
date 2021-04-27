@@ -1,0 +1,58 @@
+Cpu name,Cores,Threads
+AMD Ryzen 9 5950X 16-Core Processor,16,32
+AMD Ryzen 7 5800X 8-Core Processor,8,16
+AMD Ryzen 5 5600X 6-Core Processor,6,12
+AMD Ryzen 9 3950X 16-Core Processor,16,32
+AMD Ryzen Threadripper 3960X 24-Core Processor,24,48
+AMD Ryzen 3 3300X 4-Core Processor,4,8
+AMD Ryzen 9 3900X 12-Core Processor,12,24
+AMD Ryzen 9 3900XT 12-Core Processor,12,24
+AMD Ryzen Threadripper 3970X 32-Core Processor,32,64
+AMD Ryzen Threadripper 2920X 12-Core Processor,12,24
+AMD Ryzen 7 2700X Eight-Core Processor,8,16
+AMD Ryzen 5 2600X Six-Core Processor,6,12
+AMD Ryzen 5 3600X 6-Core Processor,6,12
+AMD Ryzen Threadripper 1900X 8-Core Processor,8,16
+AMD Ryzen Threadripper 1950X 16-Core Processor,16,32
+AMD Ryzen 7 2700 Eight-Core Processor,8,16
+AMD EPYC 7F52 16-Core Processor,16,32
+AMD Ryzen Threadripper 2990WX 32-Core Processor,32,64
+AMD EPYC 7F32 8-Core Processor,8,16
+AMD Ryzen 5 2600 Six-Core Processor,6,12
+AMD Ryzen 3 2200G with Radeon Vega Graphics,4,4
+AMD EPYC 7F72 24-Core Processor,24,48
+AMD EPYC 7742 64-Core Processor,64,128
+AMD Ryzen 5 1600X Six-Core Processor,6,12
+AMD EPYC 7302 16-Core Processor,16,32
+AMD EPYC 7542 32-Core Processor,32,64
+AMD EPYC 7302P 16-Core Processor,16,32
+AMD EPYC 7702 64-Core Processor,64,128
+AMD EPYC 7452 32-Core Processor,32,64
+AMD EPYC 7402P 24-Core Processor,24,48
+AMD EPYC 7502P 32-Core Processor,32,64
+AMD EPYC 7642 48-Core Processor,48,96
+AMD EPYC 7402 24-Core Processor,24,48
+AMD EPYC 7262 8-Core Processor,8,16
+AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx,4,8
+AMD EPYC 7702P 64-Core Processor,64,128
+AMD EPYC 7502 32-Core Processor,32,64
+AMD EPYC 7552 48-Core Processor,48,96
+AMD EPYC 7601 32-Core Processor,32,64
+AMD Ryzen 5 1600 Six-Core Processor,6,12
+AMD EPYC 7662 64-Core Processor,64,128
+AMD EPYC 7601 32-Core Processor,32,64
+AMD EPYC 7532 32-Core Processor,32,64
+AMD EPYC 7232P 8-Core Processor,8,16
+AMD EPYC 7282 16-Core Processor,16,32
+AMD Ryzen 7 1700 Eight-Core Processor,8,16
+AMD EPYC 7272 12-Core Processor,12,24
+AMD EPYC 7252 8-Core Processor,8,16
+AMD EPYC 7352 24-Core Processor,24,48
+AMD EPYC 7452 32-Core Processor,32,64
+AMD EPYC 7401P 24-Core Processor,24,48
+AMD EPYC 7351 16-Core Processor,16,32
+AMD EPYC 7532 32-Core Processor,32,64
+AMD EPYC 7351P 16-Core Processor,16,32
+AMD FX(tm)-8350 Eight-Core Processor,4,8
+AMD EPYC 7551 32-Core Processor,32,64
+AMD EPYC 7551P 32-Core Processor,32,64

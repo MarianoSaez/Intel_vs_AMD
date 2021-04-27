@@ -1,0 +1,49 @@
+Cpu name,Cores,Threads
+Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz,10,20
+11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz,4,8
+Intel(R) Core(TM) i9-9900KS CPU @ 4.00GHz,8,16
+Intel(R) Core(TM) i9-10980XE CPU @ 3.00GHz,18,36
+Intel(R) Core(TM) i5-10600K CPU @ 4.10GHz,6,12
+Intel(R) Core(TM) i9-7920X CPU @ 2.90GHz,12,12
+Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz,8,16
+Intel(R) Core(TM) i7-8086K CPU @ 4.00GHz,6,12
+Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz,4,8
+Intel(R) Core(TM) i7-7567U CPU @ 3.50GHz,2,4
+Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz,4,4
+Intel(R) Xeon(R) W-2295 CPU @ 3.00GHz,18,36
+Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz,4,8
+Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz,4,8
+Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz,4,4
+Intel(R) Core(TM) i9-7960X CPU @ 2.80GHz,16,32
+Intel(R) Xeon(R) Silver 4215R CPU @ 3.20GHz,8,16
+Intel(R) Core(TM) i5-9500 CPU @ 3.00GHz,6,6
+Intel(R) Core(TM) i7-7900X CPU @ 3.30GHz,10,20
+Intel(R) Xeon(R) Gold 5218 CPU @ 2.30GHz,16,32
+Intel(R) Xeon(R) Gold 6226R CPU @ 2.90GHz,16,32
+Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz,6,6
+Intel(R) Xeon(R) Gold 5217 CPU @ 3.00GHz,8,16
+Intel(R) Core(TM) i5-4670 CPU @ 3.40GHz,4,4
+Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz,6,12
+Intel(R) Xeon(R) Platinum 8280 CPU @ 2.70GHz,28,56
+Intel(R) Xeon(R) Platinum 8124M CPU @ 3.00GHz,8,16
+Intel(R) Xeon(R) Gold 5220R CPU @ 2.20GHz,18,36
+Intel(R) Xeon(R) Silver 4214R CPU @ 2.40GHz,12,24
+Intel(R) Pentium(R) CPU G3258 @ 3.20GHz,2,2
+Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz,4,8
+Intel(R) Core(TM) i7-5960X CPU @ 3.00GHz,8,16
+Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz,4,8
+Intel(R) Xeon(R) CPU E5-2687W v3 @ 3.10GHz,10,20
+Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz,2,4
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,4
+Intel(R) Core(TM) i5-4278U CPU @ 2.60GHz,2,4
+Intel(R) Xeon(R) Silver 4216 CPU @ 2.10GHz,16,32
+Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz,2,4
+Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz,4,8
+Intel(R) Xeon(R) Platinum 8268 CPU @ 2.90GHz,24,48
+Intel(R) Core(TM) i7-4960X CPU @ 3.60GHz,6,12
+Intel(R) Xeon(R) Silver 4110 CPU @ 2.10GHz,8,16
+Intel(R) Xeon(R) CPU E5-2683 v4 @ 2.10GHz,16,32
+Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz,4,4
+Intel(R) Atom(TM) CPU C3950 @ 1.70GHz,16,16
+Intel(R) Core(TM)2 Duo CPU     P7350  @ 2.00GHz,2,2
+Intel(R) Atom(TM) x5-Z8350  CPU @ 1.44GHz,4,4
