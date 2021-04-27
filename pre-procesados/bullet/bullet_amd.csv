@@ -1,0 +1,40 @@
+Cpu name,Cores,Frec(MHZ),Threads,Percentile,AVG
+AMD Ryzen 9 5950X 16-Core Processor,16,2200,32,100th,2.8
+AMD Ryzen 9 3900X 12-Core Processor,12,4054,24,98th,3.3
+AMD Ryzen Threadripper 3970X 32-Core Processor,32,2200,64,96th,3.4
+AMD Ryzen 9 3950X 16-Core Processor,16,2106,32,96th,3.4
+AMD EPYC 7F52 16-Core Processor,16,2546,32,93rd,3.8
+AMD EPYC 7F32 8-Core Processor,8,1950,16,92nd,3.9
+AMD Ryzen Threadripper 2950X 16-Core Processor,16,2473,32,92nd,3.9
+AMD Ryzen Threadripper 2990WX 32-Core Processor,32,2003,64,91st,4.0
+AMD Ryzen 7 2700X Eight-Core Processor,8,4157,16,90th,4.0
+AMD Ryzen Threadripper 1950X 16-Core Processor,16,3399,32,88th,4.2
+AMD EPYC 7F72 24-Core Processor,24,1886,48,87th,4.2
+AMD EPYC 7542 32-Core Processor,32,1465,64,84th,4.4
+AMD EPYC 7742 64-Core Processor,64,2312,128,83rd,4.4
+AMD EPYC 7262 8-Core Processor,8,3272,16,82nd,4.4
+AMD EPYC 7502 32-Core Processor,32,1795,64,82nd,4.4
+AMD EPYC 7452 32-Core Processor,32,1496,64,81st,4.4
+AMD EPYC 7502P 32-Core Processor,32,1473,64,81st,4.4
+AMD EPYC 7402P 24-Core Processor,24,2800,48,80th,4.5
+AMD EPYC 7702 64-Core Processor,64,1417,128,80th,4.5
+AMD EPYC 7302P 16-Core Processor,16,1475,32,79th,4.5
+AMD EPYC 7552 48-Core Processor,48,1340,96,79th,4.5
+AMD EPYC 7642 48-Core Processor,48,1495,96,79th,4.5
+AMD EPYC 7532 32-Core Processor,32,1390,64,78th,4.5
+AMD EPYC 7662 64-Core Processor,64,1497,128,78th,4.5
+AMD Ryzen 7 1700 Eight-Core Processor,8,1550,16,77th,4.6
+AMD Ryzen 7 1700X Eight-Core Processor,8,2200,16,75th,4.6
+AMD EPYC 7282 16-Core Processor,16,2800,32,74th,4.7
+AMD EPYC 7272 12-Core Processor,12,1347,24,72nd,4.7
+AMD EPYC 7352 24-Core Processor,24,1496,48,71st,4.8
+AMD EPYC 7252 8-Core Processor,8,1477,16,71st,4.8
+AMD Ryzen 5 3400G with Radeon Vega Graphics,4,2073,8,71st,4.8
+AMD Ryzen 3 1300X Quad-Core Processor,4,2437,4,67th,5.0
+AMD EPYC 7601 32-Core Processor,32,2195,64,65th,5.1
+AMD EPYC 7601 32-Core Processor,32,2200,64,65th,5.2
+AMD EPYC 7232P 8-Core Processor,8,1495,16,61st,5.4
+AMD FX-8370E Eight-Core Processor,4,1400,8,43rd,6.3
+AMD FX(tm)-8350 Eight-Core Processor,4,1400,8,38th,6.7
+AMD A10-6700 APU with Radeon(tm) HD Graphics,2,1800,4,21st,9.0
+AMD A4-6300 APU with Radeon(tm) HD Graphics,1,3854,2,12th,11.8

@@ -1,0 +1,63 @@
+Cpu name,Cores,Frec(MHZ),Threads,Percentile,AVG
+11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz,8,3500,16,100th,2.8
+11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz,4,2800,8,100th,2.9
+Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz,10,3700,20,99th,3.3
+Intel(R) Xeon(R) E-2288G CPU @ 3.70GHz,8,4982,16,99th,3.3
+Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz,8,1106,16,98th,3.3
+Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz,6,4800,12,96th,3.4
+Intel(R) Xeon(R) E-2286M  CPU @ 2.40GHz,8,900,16,96th,3.4
+Intel(R) Core(TM) i9-9900KS CPU @ 4.00GHz,8,4994,16,96th,3.4
+Intel(R) Core(TM) i5-10600K CPU @ 4.10GHz,6,4556,12,95th,3.5
+Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz,4,4499,8,94th,3.7
+Intel(R) Core(TM) i9-7980XE CPU @ 2.60GHz,18,2600,36,91st,4.0
+Intel(R) Core(TM) i7-7900X CPU @ 3.30GHz,10,3300,20,91st,4.0
+Intel(R) Core(TM) i9-10980XE CPU @ 3.00GHz,18,1211,36,89th,4.1
+Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz,4,899,8,89th,4.2
+Intel(R) Xeon(R) CPU E3-1280 v5 @ 3.70GHz,4,799,8,88th,4.2
+Intel(R) Core(TM) i9-7900X CPU @ 3.30GHz,10,1600,20,88th,4.2
+Intel(R) Xeon(R) Gold 6144 CPU @ 3.50GHz,8,1199,16,86th,4.3
+Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz,4,4401,4,86th,4.3
+Intel(R) Xeon(R) CPU E3-1260L v5 @ 2.90GHz,4,2901,8,85th,4.3
+Intel(R) Xeon(R) CPU E3-1245 v5 @ 3.50GHz,4,3500,8,84th,4.4
+Intel(R) Xeon(R) Gold 5218 CPU @ 2.30GHz,16,1039,32,83rd,4.4
+Intel(R) Xeon(R) CPU E3-1240 v5 @ 3.50GHz,4,3500,8,83rd,4.4
+Intel(R) Xeon(R) Gold 6226R CPU @ 2.90GHz,16,1347,32,81st,4.4
+Intel(R) Xeon(R) Platinum 8280 CPU @ 2.70GHz,28,2700,56,81st,4.4
+Intel(R) Xeon(R) Platinum 8268 CPU @ 2.90GHz,24,2900,48,80th,4.5
+Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz,4,4005,8,79th,4.5
+Intel(R) Xeon(R) Silver 4215R CPU @ 3.20GHz,8,1091,16,77th,4.5
+Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz,18,1000,36,75th,4.6
+Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz,20,2000,40,74th,4.7
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,3629,4,74th,4.7
+Intel(R) Core(TM) i7-6800K CPU @ 3.40GHz,6,1200,12,73rd,4.7
+Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz,4,3201,4,72nd,4.7
+Intel(R) Xeon(R) Gold 5217 CPU @ 3.00GHz,8,1200,16,72nd,4.8
+Intel(R) Xeon(R) Silver 4214R CPU @ 2.40GHz,12,1759,24,70th,4.9
+Intel(R) Core(TM) i7-4960X CPU @ 3.60GHz,6,3999,12,69th,4.9
+Intel(R) Xeon(R) Platinum 8168 CPU @ 2.70GHz,24,1199,48,69th,4.9
+Intel(R) Core(TM) i5-4670 CPU @ 3.40GHz,4,2225,4,65th,5.1
+Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz,8,2162,8,64th,5.2
+Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz,6,1398,12,64th,5.2
+Intel(R) Xeon(R) Silver 4216 CPU @ 2.10GHz,16,800,32,64th,5.2
+Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz,4,1699,4,63rd,5.2
+Intel(R) Core(TM) i7-5960X CPU @ 3.00GHz,8,1407,16,63rd,5.3
+Intel(R) Xeon(R) CPU E3-1235L v5 @ 2.00GHz,4,2204,4,60th,5.4
+Intel(R) Xeon(R) CPU E5-1680 v3 @ 3.20GHz,8,3200,16,59th,5.4
+Intel(R) Core(TM) i7-7600U CPU @ 2.80GHz,2,3058,4,57th,5.6
+Intel(R) Core(TM) i7-5557U CPU @ 3.10GHz,2,3100,4,57th,5.6
+Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz,4,3400,8,54th,5.7
+Intel(R) Xeon(R) Silver 4108 CPU @ 1.80GHz,8,1800,16,54th,5.7
+Intel(R) Xeon(R) CPU E5-2687W v3 @ 3.10GHz,10,3100,20,54th,5.7
+Intel(R) Xeon(R) CPU E5-2683 v4 @ 2.10GHz,16,1900,32,46th,6.1
+Intel(R) Xeon(R) CPU E5-2697 v3 @ 2.60GHz,14,1200,28,45th,6.2
+Intel(R) Core(TM) i7-4600U CPU @ 2.10GHz,2,2700,4,45th,6.2
+Intel(R) Xeon(R) CPU E5-4650 0 @ 2.70GHz,8,2893,16,44th,6.3
+Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz,2,3400,4,44th,6.3
+Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz,12,2500,24,40th,6.6
+Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz,8,1200,16,39th,6.7
+Intel(R) Core(TM) i5-3330 CPU @ 3.00GHz,4,3217,4,34th,7.0
+Intel(R) Xeon(R) CPU E5-2630 0 @ 2.30GHz,6,1200,12,33rd,7.1
+Intel(R) Xeon(R) CPU E5-2609 v4 @ 1.70GHz,8,1699,8,20th,9.3
+Intel(R) Xeon(R) CPU           X7460  @ 2.66GHz,6,2666,6,15th,10.6
+Intel(R) Celeron(R) CPU 1007U @ 1.50GHz,2,1496,2,10th,15.0
+Intel(R) Atom(TM) CPU  C2750  @ 2.40GHz,8,1200,8,6th,22.0

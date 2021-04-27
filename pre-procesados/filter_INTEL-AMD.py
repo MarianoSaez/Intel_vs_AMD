@@ -13,18 +13,18 @@ import pandas as pd
 
 # ============================ CSV para AMD e Intel ===========================
 
-df = pd.read_csv('pre-procesados/cores_compresion_all.csv')
+df = pd.read_csv('pre-procesados/smallpt/smallpt_all.csv')
 
 # AMD
 # for i in df.index:
 #     if 'AMD' not in df.loc[i, 'Cpu name']:
 #         df.drop(i, inplace=True)
 
-# df.to_csv('pre-procesados/cores_compresion_AMD.csv', index=False, encoding='utf-8')
+# df.to_csv('pre-procesados/smallpt/smallpt_amd.csv', index=False, encoding='utf-8')
 
 # Intel
 for i in df.index:
-    if 'Intel' not in df.loc[i, 'Cpu name']:
-        df.drop(i, inplace=True)
+   if 'Intel' not in df.loc[i, 'Cpu name']:
+       df.drop(i, inplace=True)
 
-df.to_csv('pre-procesados/cores_compresion_Intel.csv', index=False, encoding='utf-8')
+df.to_csv('pre-procesados/smallpt/smallpt_intel.csv', index=False, encoding='utf-8')
