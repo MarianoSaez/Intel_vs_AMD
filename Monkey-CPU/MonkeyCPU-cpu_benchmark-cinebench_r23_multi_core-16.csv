@@ -1,0 +1,213 @@
+CPU NAME,BENCHMARK,FREC,CORES
+AMD Ryzen Threadripper 3990X,"74,422",2.90 GHz,64
+AMD Ryzen Threadripper Pro 3995WX,"73,220",2.70 GHz,64
+Intel Xeon Platinum 8280L,"49,876",2.70 GHz,28
+AMD Epyc 7702P,"49,035",2.00 GHz,64
+AMD Epyc 7702,"49,035",2.00 GHz,64
+AMD Ryzen Threadripper 3970X,"47,102",3.70 GHz,32
+AMD Ryzen Threadripper PRO 3975WX,"43,450",3.50 GHz,32
+AMD Epyc 7502P,"36,403",2.50 GHz,32
+AMD Ryzen Threadripper 3960X,"34,255",3.80 GHz,24
+AMD Ryzen Threadripper 2990WX,"33,213",3.00 GHz,32
+Intel Xeon E5-2699 v4,"32,623",2.20 GHz,22
+Intel Xeon W-3175X,"31,350",3.10 GHz,28
+AMD Ryzen 9 5950X,"28,641",3.40 GHz,16
+Intel Core i9-7980XE,"28,196",2.60 GHz,18
+Intel Xeon W-3275M,"28,051",2.50 GHz,28
+Intel Xeon Gold 6132,"27,401",2.60 GHz,14
+Intel Core i9-10980XE,"24,309",3.00 GHz,18
+AMD Ryzen 9 3950X,"24,050",3.50 GHz,16
+Intel Core i9-7960X,"22,189",2.80 GHz,16
+AMD Ryzen 9 5900X,"21,878",3.70 GHz,12
+AMD Ryzen Threadripper 2950X,"21,444",3.50 GHz,16
+Intel Core i9-10940X,"21,309",3.30 GHz,14
+AMD Ryzen 9 5900,"20,955",3.50 GHz,12
+Intel Xeon E5-2697 v3,"19,409",2.60 GHz,14
+AMD Ryzen Threadripper 1950X,"18,780",3.40 GHz,16
+AMD Ryzen 9 3900XT,"18,511",4.10 GHz,12
+AMD Ryzen 9 3900X,"18,424",3.80 GHz,12
+Intel Xeon E5-2683 v3,"17,896",2.00 GHz,14
+AMD Epyc 7351,"17,401",2.40 GHz,16
+Intel Core i9-10850K,"16,820",3.60 GHz,10
+Intel Core i9-11900KF,"16,211",3.50 GHz,8
+Intel Core i9-11900K,"16,211",3.50 GHz,8
+Intel Core i9-10900KF,"15,945",3.70 GHz,10
+Intel Core i9-10900K,"15,945",3.70 GHz,10
+AMD Ryzen 7 5800X,"15,245",3.80 GHz,8
+Intel Core i7-11700KF,"15,011",3.60 GHz,8
+Intel Core i7-11700K,"15,011",3.60 GHz,8
+Intel Core i9-7900X,"14,998",3.30 GHz,10
+AMD Ryzen 7 PRO 5750G,"14,350",3.80 GHz,8
+AMD Ryzen 7 5700G,"14,350",3.80 GHz,8
+Intel Core i9-10900X,"14,301",3.70 GHz,10
+AMD Ryzen 7 5800,"14,065",3.40 GHz,8
+Apple M1X,"13,470",3.20 GHz,12
+Intel Core i7-9800X,"13,067",3.80 GHz,8
+AMD Ryzen 7 5800H,"12,969",3.20 GHz,8
+AMD Ryzen 7 3800XT,"12,955",4.20 GHz,8
+AMD Ryzen 7 PRO 4750G,"12,916",3.60 GHz,8
+AMD Ryzen 7 3800X,"12,874",3.90 GHz,8
+AMD Ryzen 9 5980HS,"12,844",3.00 GHz,8
+Intel Core i7-6950X,"12,713",3.00 GHz,10
+Intel Core i9-9900KS,"12,704",4.00 GHz,8
+Intel Core i7-10700KF,"12,678",3.80 GHz,8
+Intel Core i7-10700K,"12,678",3.80 GHz,8
+Intel Core i9-9900KF,"12,450",3.60 GHz,8
+Intel Core i9-9900K,"12,450",3.60 GHz,8
+AMD Ryzen 7 3700X,"12,355",3.60 GHz,8
+Intel Core i7-10700F,"12,250",2.90 GHz,8
+Intel Core i7-10700,"12,250",2.90 GHz,8
+Intel Core i9-9900,"12,205",3.10 GHz,8
+Intel Xeon W-2150B,"11,463",3.00 GHz,10
+Intel Core i7-6900K,"11,326",3.20 GHz,8
+Intel Core i5-11600KF,"11,277",3.90 GHz,6
+Intel Core i5-11600K,"11,277",3.90 GHz,6
+AMD Ryzen 5 5600X,"11,268",3.70 GHz,6
+AMD Ryzen 7 Pro 5850U,"11,203",1.90 GHz,8
+AMD Ryzen 7 5800U,"11,203",1.90 GHz,8
+AMD Ryzen 5 PRO 5650G,"11,196",3.90 GHz,6
+AMD Ryzen 5 5600G,"11,196",3.90 GHz,6
+AMD Ryzen 9 4900H,"11,061",3.30 GHz,8
+AMD Ryzen 9 4900HS,"11,006",3.00 GHz,8
+AMD Ryzen 7 4800HS,"10,590",2.90 GHz,8
+AMD Ryzen 7 4800H,"10,590",2.90 GHz,8
+AMD Ryzen 7 2700X,"10,545",3.70 GHz,8
+Intel Core i5-10600KF,"10,489",4.10 GHz,6
+Intel Core i5-10600K,"10,489",4.10 GHz,6
+Intel Core i7-8086K,"10,209",3.70 GHz,6
+AMD Ryzen 7 4800U,"10,156",1.80 GHz,8
+AMD Ryzen 5 3600XT,"9,945",3.80 GHz,6
+AMD Ryzen 5 3600X,"9,588",3.80 GHz,6
+AMD Ryzen 5 3600,"9,412",3.60 GHz,6
+AMD Ryzen 5 4600G,"9,348",3.70 GHz,6
+AMD Ryzen 7 1800X,"9,314",3.60 GHz,8
+AMD Ryzen 5 PRO 4650G,"9,258",3.70 GHz,6
+Intel Core i7-9700KF,"9,214",3.60 GHz,8
+Intel Core i7-9700K,"9,214",3.60 GHz,8
+Intel Core i5-10600,"9,024",3.30 GHz,6
+Intel Core i7-8700K,"8,960",3.70 GHz,6
+AMD Ryzen 7 2700,"8,947",3.20 GHz,8
+AMD Ryzen 5 4600HS,"8,934",3.00 GHz,6
+AMD Ryzen 5 4600H,"8,934",3.00 GHz,6
+AMD Ryzen 7 Pro 1700X,"8,805",3.50 GHz,8
+AMD Ryzen 7 1700X,"8,805",3.40 GHz,8
+Intel Core i7-9700F,"8,540",3.00 GHz,8
+Intel Core i7-9700,"8,540",3.00 GHz,8
+Intel Core i9-9980HK,"8,370",2.40 GHz,8
+Intel Core i9-9880H,"8,311",2.30 GHz,8
+Intel Xeon E5-2697 v2,"8,249",2.70 GHz,12
+Intel Core i5-10500,"8,209",3.10 GHz,6
+AMD Ryzen 7 PRO 4750U,"8,088",1.70 GHz,8
+AMD Ryzen 7 Pro 1700,"8,065",3.00 GHz,8
+AMD Ryzen 7 1700,"8,065",3.00 GHz,8
+AMD Ryzen 5 4600U,"8,044",2.10 GHz,6
+Intel Core i7-8700B,"7,969",3.20 GHz,6
+Intel Core i7-8700,"7,969",3.20 GHz,6
+AMD Ryzen 5 5500U,"7,783",2.10 GHz,6
+Apple M1,"7,760",3.20 GHz,8
+Intel Core i5-10400F,"7,610",2.90 GHz,6
+Intel Core i5-10400,"7,610",2.90 GHz,6
+AMD Ryzen 5 2600X,"7,514",3.60 GHz,6
+Intel Core i7-10850H,"7,455",2.70 GHz,6
+Intel Core i5-8600K,"7,339",3.60 GHz,6
+Intel Core i7-10750H,"7,314",2.60 GHz,6
+Intel Core i5-9600KF,"7,301",3.70 GHz,6
+Intel Core i5-9600K,"7,301",3.70 GHz,6
+AMD Ryzen 5 2600,"7,220",3.40 GHz,6
+Intel Core i7-9750HF,"6,912",2.60 GHz,6
+Intel Core i7-9750H,"6,912",2.60 GHz,6
+AMD Ryzen 7 4700U,"6,874",2.00 GHz,8
+AMD Ryzen 3 3300X,"6,754",3.80 GHz,4
+Intel Core i7-6800K,"6,645",3.40 GHz,6
+AMD Ryzen 5 1600 AF,"6,614",3.20 GHz,6
+Intel Core i7-4930K,"6,569",3.40 GHz,6
+AMD Ryzen 5 PRO 4650U,"6,537",2.10 GHz,6
+AMD Ryzen 5 1600X,"6,470",3.30 GHz,6
+Intel Core i7-1185G7,"6,264",3.00 GHz,4
+AMD Ryzen 5 1600,"6,230",3.20 GHz,6
+AMD Ryzen 5 Pro 1600,"6,230",3.20 GHz,6
+Intel Core i7-1165G7,"6,070",2.80 GHz,4
+Intel Core i7-7700K,"6,055",4.20 GHz,4
+AMD Ryzen 3 PRO 4350G,"5,995",3.80 GHz,4
+Intel Core i7-8750H,"5,977",2.20 GHz,6
+Intel Core i5-1135G7,"5,913",2.40 GHz,4
+Intel Core i3-10105F,"5,737",3.70 GHz,4
+Intel Core i3-10105,"5,737",3.70 GHz,4
+Intel Core i7-5820K,"5,700",3.30 GHz,6
+Intel Core i7-6700K,"5,640",4.00 GHz,4
+AMD Ryzen 3 PRO 4350GE,"5,620",3.50 GHz,4
+AMD Ryzen 5 4500U,"5,620",2.30 GHz,6
+Intel Core i3-10100F,"5,612",3.60 GHz,4
+Intel Core i5-8500B,"5,612",3.00 GHz,6
+Intel Core i3-10100,"5,612",3.60 GHz,4
+Intel Core i5-8500,"5,612",3.00 GHz,6
+AMD Ryzen 3 3100,"5,423",3.60 GHz,4
+Intel Core i5-1038NG7,"4,995",2.00 GHz,4
+Intel Core i7-4790K,"4,936",4.00 GHz,4
+Intel Core i7-6700,"4,921",3.40 GHz,4
+Intel Xeon E3-1230 v5,"4,832",3.40 GHz,4
+AMD Ryzen 5 PRO 3400G,"4,810",3.70 GHz,4
+AMD Ryzen 5 3400G,"4,810",3.70 GHz,4
+AMD Ryzen 5 PRO 2400G,"4,800",3.60 GHz,4
+AMD Ryzen 5 2400G,"4,800",3.60 GHz,4
+Intel Core i5-8600T,"4,633",2.30 GHz,6
+Intel Core i7-5775C,"4,601",3.30 GHz,4
+Intel Core i7-4770K,"4,593",3.50 GHz,4
+Intel Core i7-4790,"4,564",3.60 GHz,4
+Apple A12Z Bionic,"4,539",1.59 GHz,8
+Intel Core i7-1065G7,"4,475",1.30 GHz,4
+Intel Core i7-4770R,"4,436",3.20 GHz,4
+Intel Core i5-1035G7,"4,430",1.20 GHz,4
+Intel Core i5-1035G4,"4,332",1.10 GHz,4
+Intel Core i7-1060NG7,"4,329",1.20 GHz,4
+Intel Core i7-4770S,"4,310",3.10 GHz,4
+Intel Core i7-6820HQ,"4,288",2.70 GHz,4
+Intel Core i7-7700HQ,"4,271",2.80 GHz,4
+Intel Core i7-1060G7,"4,260",1.00 GHz,4
+Intel Core i5-1035G1,"4,225",1.00 GHz,4
+Intel Core i5-1030NG7,"4,189",1.10 GHz,4
+Intel Core i5-6600K,"3,965",3.50 GHz,4
+Intel Core i5-1034G1,"3,956",0.80 GHz,4
+AMD FX-8350,"3,803",4.00 GHz,8
+Intel Core i5-6600,"3,741",3.30 GHz,4
+Intel Core i7-3770,"3,650",3.40 GHz,4
+Intel Core i7-2600,"3,647",3.40 GHz,4
+AMD Ryzen 3 PRO 2200G,"3,587",3.50 GHz,4
+AMD Ryzen 3 2200G,"3,587",3.50 GHz,4
+Intel Core i5-8259U,"3,579",2.30 GHz,4
+Intel Core i7-8650U,"3,576",1.90 GHz,4
+AMD Ryzen 5 PRO 3500U,"3,544",2.10 GHz,4
+AMD Ryzen 5 3500U,"3,544",2.10 GHz,4
+Intel Core i7-10510U,"3,271",1.80 GHz,4
+Intel Core i7-10610U,"3,267",1.80 GHz,4
+Intel Core i7-4770HQ,"3,249",2.20 GHz,4
+Intel Core i7-3615QM,"3,163",2.30 GHz,4
+Intel Core i7-4800MQ,"3,163",2.70 GHz,4
+Intel Core i3-7350K,"3,136",4.20 GHz,2
+Intel Core i5-8250U,"3,118",1.60 GHz,4
+Intel Core i7-8550U,"3,111",1.80 GHz,4
+Intel Core i5-8350U,"3,002",1.70 GHz,4
+AMD Ryzen 5 PRO 2500U,"2,865",2.00 GHz,4
+AMD Ryzen 5 2500U,"2,865",2.00 GHz,4
+Intel Core i5-4570,"2,841",3.20 GHz,4
+Intel Core i5-3570K,"2,780",3.40 GHz,4
+Intel Core i5-3570,"2,780",3.40 GHz,4
+Intel Core i7-10510Y,"2,635",1.20 GHz,4
+Intel Core i5-3470,"2,603",3.20 GHz,4
+AMD Ryzen 7 PRO 2700U,"2,586",2.20 GHz,4
+AMD Ryzen 7 2700U,"2,586",2.20 GHz,4
+Intel Core i5-4570S,"2,545",2.90 GHz,4
+Intel Core i5-2500,"2,531",3.30 GHz,4
+Intel Core i7-7567U,"2,501",3.50 GHz,2
+Intel Core i5-2500k,"2,450",3.30 GHz,4
+Intel Core i5-2400,"2,350",3.10 GHz,4
+Intel Celeron G3900,"2,011",2.80 GHz,2
+Intel Core i5-7200U,"1,978",2.50 GHz,2
+AMD Phenom II X4 955,"1,967",3.20 GHz,4
+Intel Core i5-6300U,"1,834",2.40 GHz,2
+Intel Core i7-7660U,"1,759",2.50 GHz,2
+Intel Core i5-6200U,"1,706",2.30 GHz,2
+AMD Athlon II X4 860K,"1,677",3.70 GHz,4
+Intel Core i5-8265U,"1,674",1.60 GHz,4
+Intel Celeron J4105,"1,477",1.50 GHz,4
+Intel Atom x5-Z8350,440,1.44 GHz,4

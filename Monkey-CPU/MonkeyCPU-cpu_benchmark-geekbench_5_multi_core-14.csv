@@ -1,0 +1,101 @@
+CPU NAME,BENCHMARK,FREC,CORES
+AMD Epyc 7763,"38,211",2.45 GHz,64
+AMD Ryzen Threadripper Pro 3995WX,"36,215",2.70 GHz,64
+AMD Ryzen Threadripper 3990X,"34,670",2.90 GHz,64
+AMD Epyc 7513,"27,243",2.60 GHz,32
+AMD Ryzen Threadripper PRO 3975WX,"25,211",3.50 GHz,32
+Intel Xeon W-3175X,"23,465",3.10 GHz,28
+AMD Ryzen Threadripper 3970X,"22,727",3.70 GHz,32
+AMD Ryzen Threadripper 3960X,"19,851",3.80 GHz,24
+AMD Ryzen Threadripper 2990WX,"17,204",3.00 GHz,32
+Intel Xeon W-3275M,"17,196",2.50 GHz,28
+AMD Ryzen 9 5950X,"16,942",3.40 GHz,16
+Intel Core i9-7980XE,"16,495",2.60 GHz,18
+Intel Core i9-10980XE,"15,841",3.00 GHz,18
+Intel Core i9-9980XE,"15,725",3.00 GHz,18
+AMD Ryzen Threadripper Pro 3955WX,"15,679",3.90 GHz,16
+AMD Ryzen Threadripper 2970WX,"14,740",3.00 GHz,24
+AMD Ryzen 9 5900X,"14,650",3.70 GHz,12
+AMD Ryzen 9 3950X,"14,322",3.50 GHz,16
+Intel Core i9-9960X,"14,314",3.10 GHz,16
+Intel Xeon W-3245,"14,261",3.20 GHz,16
+Intel Core i9-9940X,"13,946",3.30 GHz,14
+Intel Core i9-10940X,"13,831",3.30 GHz,14
+Intel Core i9-7960X,"13,468",2.80 GHz,16
+Intel Xeon W-2191B,"13,453",2.30 GHz,18
+Intel Xeon E5-2695 v4,"13,151",2.20 GHz,18
+Apple M1X,"13,067",3.20 GHz,12
+AMD Ryzen 9 3900XT,"12,974",4.10 GHz,12
+Intel Core i9-7940X,"12,964",3.10 GHz,14
+AMD Ryzen Threadripper Pro 3945WX,"12,828",4.00 GHz,12
+Intel Core i9-9920X,"12,763",3.50 GHz,12
+Intel Core i9-10920X,"12,703",3.50 GHz,12
+AMD Ryzen 9 3900X,"12,128",3.80 GHz,12
+Intel Xeon W-3235,"11,996",3.30 GHz,12
+Intel Xeon Silver 4215R,"11,877",3.20 GHz,8
+Intel Core i9-7920X,"11,498",2.90 GHz,12
+AMD Epyc 7702P,"11,451",2.00 GHz,64
+AMD Epyc 7702,"11,451",2.00 GHz,64
+AMD Ryzen Threadripper 2950X,"11,420",3.50 GHz,16
+Intel Core i9-11900KF,"11,350",3.50 GHz,8
+Intel Core i9-11900K,"11,350",3.50 GHz,8
+Intel Core i9-10900KF,"11,344",3.70 GHz,10
+Intel Core i9-10900K,"11,344",3.70 GHz,10
+Intel Core i9-10850K,"11,250",3.60 GHz,10
+AMD Ryzen 7 5800X,"11,078",3.80 GHz,8
+AMD Ryzen 9 3900,"10,974",3.10 GHz,12
+AMD Ryzen 9 PRO 3900,"10,974",3.10 GHz,12
+Intel Core i7-11700KF,"10,765",3.60 GHz,8
+Intel Core i7-11700K,"10,765",3.60 GHz,8
+Intel Core i9-10900F,"10,744",2.80 GHz,10
+Intel Core i9-10900,"10,744",2.80 GHz,10
+Intel Xeon E5-2690 v4,"10,719",2.60 GHz,14
+Intel Core i9-10900X,"10,651",3.70 GHz,10
+Intel Core i9-9900X,"10,490",3.50 GHz,10
+AMD Ryzen Threadripper 1950X,"10,405",3.40 GHz,16
+Intel Xeon E5-2695 v3,"10,389",2.30 GHz,14
+Intel Core i9-7900X,"10,199",3.30 GHz,10
+AMD Ryzen 7 3800XT,"9,852",4.20 GHz,8
+Intel Xeon Gold 6134,"9,669",3.20 GHz,8
+Intel Xeon E5-2697 v3,"9,541",2.60 GHz,14
+Intel Core i9-9900KS,"9,471",4.00 GHz,8
+Intel Xeon W-2155,"9,389",3.30 GHz,10
+AMD Ryzen 9 5980HX,"9,265",3.30 GHz,8
+AMD Ryzen 7 3800X,"9,065",3.90 GHz,8
+AMD Ryzen 9 5900HX,"9,038",3.30 GHz,8
+Intel Core i7-10700KF,"9,034",3.80 GHz,8
+Intel Core i7-10700K,"9,034",3.80 GHz,8
+Intel Core i7-6950X,"8,993",3.00 GHz,10
+Intel Core i7-10700F,"8,945",2.90 GHz,8
+Intel Core i7-10700,"8,945",2.90 GHz,8
+Intel Core i7-7820X,"8,916",3.60 GHz,8
+Intel Xeon E5-2697 v4,"8,903",2.30 GHz,18
+AMD Ryzen 9 5900H,"8,849",3.10 GHz,8
+Intel Core i9-9900KF,"8,779",3.60 GHz,8
+Intel Core i9-9900K,"8,779",3.60 GHz,8
+Intel Core i9-10900T,"8,743",1.90 GHz,10
+AMD Ryzen 7 PRO 4750G,"8,732",3.60 GHz,8
+AMD Ryzen 7 4700G,"8,732",3.60 GHz,8
+AMD Ryzen 7 3700X,"8,732",3.60 GHz,8
+AMD Ryzen 7 PRO 5750G,"8,717",3.80 GHz,8
+AMD Ryzen 7 5700G,"8,717",3.80 GHz,8
+AMD Ryzen Threadripper 2920X,"8,714",3.50 GHz,12
+AMD Ryzen 9 5900HS,"8,577",3.00 GHz,8
+Intel Xeon E5-2690 v3,"8,561",2.60 GHz,12
+AMD Ryzen Threadripper 1920X,"8,449",3.50 GHz,12
+AMD Ryzen 9 5980HS,"8,434",3.00 GHz,8
+AMD Ryzen 5 5600X,"8,420",3.70 GHz,6
+AMD Ryzen 7 5800H,"8,397",3.20 GHz,8
+Intel Xeon W-2145,"8,351",3.70 GHz,8
+Intel Core i5-11600KF,"8,312",3.90 GHz,6
+Intel Core i5-11600K,"8,312",3.90 GHz,6
+Intel Xeon W-3223,"8,195",3.50 GHz,8
+AMD Ryzen 7 Pro 5850U,"8,140",1.90 GHz,8
+AMD Ryzen 7 5800U,"8,140",1.90 GHz,8
+Intel Core i9-9900,"8,047",3.10 GHz,8
+Intel Xeon W-2140B,"7,969",3.20 GHz,8
+AMD Ryzen 5 3600XT,"7,916",3.80 GHz,6
+AMD Ryzen 9 4900H,"7,911",3.30 GHz,8
+Intel Xeon E5-2683 v3,"7,877",2.00 GHz,14
+Intel Core i5-11400,"7,863",2.60 GHz,6
+Intel Core i7-5960X,"7,843",3.00 GHz,8

@@ -1,0 +1,101 @@
+CPU NAME,BENCHMARK,FREC,CORES
+Intel Core i9-11900KF,"1,910",3.50 GHz,8
+Intel Core i9-11900K,"1,910",3.50 GHz,8
+Intel Core i7-11700KF,"1,794",3.60 GHz,8
+Intel Core i7-11700K,"1,794",3.60 GHz,8
+Apple M1X,"1,744",3.20 GHz,12
+Apple M1,"1,744",3.20 GHz,8
+Intel Core i5-11600KF,"1,721",3.90 GHz,6
+Intel Core i5-11600K,"1,721",3.90 GHz,6
+AMD Ryzen 9 5950X,"1,657",3.40 GHz,16
+AMD Ryzen 9 5900X,"1,646",3.70 GHz,12
+Intel Core i9-11900F,"1,644",2.50 GHz,8
+Intel Core i9-11900,"1,644",2.50 GHz,8
+AMD Ryzen 7 5800X,"1,632",3.80 GHz,8
+AMD Ryzen 9 5980HX,"1,614",3.30 GHz,8
+Intel Core i5-11400,"1,593",2.60 GHz,6
+Apple A14 Bionic,"1,592",3.00 GHz,6
+Intel Core i7-11375H,"1,586",3.30 GHz,4
+Intel Core i7-11370H,"1,578",3.30 GHz,4
+Intel Core i7-1185G7,"1,578",3.00 GHz,4
+AMD Ryzen 5 5600X,"1,572",3.70 GHz,6
+Intel Core i5-11500,"1,560",2.70 GHz,6
+AMD Ryzen 9 5900HX,"1,552",3.30 GHz,8
+AMD Ryzen 9 5980HS,"1,514",3.00 GHz,8
+Intel Core i5-11400F,"1,513",2.60 GHz,6
+AMD Ryzen 9 5900H,"1,497",3.10 GHz,8
+AMD Ryzen 9 5900HS,"1,497",3.00 GHz,8
+Intel Core i7-1165G7,"1,488",2.80 GHz,4
+Intel Core i7-1160G7,"1,475",2.10 GHz,4
+AMD Ryzen 7 5800HS,"1,472",2.80 GHz,8
+AMD Ryzen 7 5800H,"1,461",3.20 GHz,8
+Intel Core i5-11300H,"1,435",3.10 GHz,4
+Intel Core i5-1145G7,"1,419",2.60 GHz,4
+Intel Core i9-9900KS,"1,419",4.00 GHz,8
+Intel Core i9-10900KF,"1,417",3.70 GHz,10
+Intel Core i9-10900K,"1,417",3.70 GHz,10
+AMD Ryzen 7 Pro 5850U,"1,414",1.90 GHz,8
+AMD Ryzen 7 5800U,"1,414",1.90 GHz,8
+AMD Ryzen 7 3800XT,"1,414",4.20 GHz,8
+AMD Ryzen 9 3900XT,"1,414",4.10 GHz,12
+Intel Core i9-10850K,"1,411",3.60 GHz,10
+Intel Core i9-10900F,"1,379",2.80 GHz,10
+Intel Core i9-10900,"1,379",2.80 GHz,10
+AMD Ryzen 5 5600HS,"1,376",3.00 GHz,6
+AMD Ryzen 5 5600H,"1,376",3.30 GHz,6
+AMD Ryzen 5 3600XT,"1,376",3.80 GHz,6
+Intel Core i7-10700KF,"1,358",3.80 GHz,8
+Intel Core i7-10700K,"1,358",3.80 GHz,8
+Intel Core i5-1135G7,"1,355",2.40 GHz,4
+Intel Core i5-10600KF,"1,354",4.10 GHz,6
+Intel Core i5-10600K,"1,354",4.10 GHz,6
+Intel Core i9-9900KF,"1,342",3.60 GHz,8
+Intel Core i9-9900K,"1,342",3.60 GHz,8
+Intel Core i7-8086K,"1,335",3.70 GHz,6
+Apple A13 Bionic,"1,334",1.80 GHz,6
+AMD Ryzen 9 3950X,"1,310",3.50 GHz,16
+AMD Ryzen Threadripper Pro 3945WX,"1,307",4.00 GHz,12
+AMD Ryzen Threadripper Pro 3955WX,"1,307",3.90 GHz,16
+AMD Ryzen 7 PRO 5750G,"1,304",3.80 GHz,8
+AMD Ryzen 7 5700G,"1,304",3.80 GHz,8
+AMD Ryzen 3 3300X,"1,304",3.80 GHz,4
+Intel Core i7-9700KF,"1,302",3.60 GHz,8
+Intel Core i7-9700K,"1,302",3.60 GHz,8
+Intel Core i9-10980HK,"1,299",2.40 GHz,8
+Intel Core i7-10850H,"1,296",2.70 GHz,6
+Intel Core i9-9900,"1,292",3.10 GHz,8
+Intel Core i5-9600KF,"1,288",3.70 GHz,6
+Intel Core i9-10885H,"1,287",2.40 GHz,8
+AMD Ryzen 9 3900X,"1,285",3.80 GHz,12
+Intel Core i7-8700K,"1,283",3.70 GHz,6
+Intel Core i9-10900T,"1,279",1.90 GHz,10
+Intel Core i7-10875H,"1,278",2.30 GHz,8
+Intel Core i7-7740X,"1,277",4.30 GHz,4
+AMD Ryzen Threadripper 3970X,"1,274",3.70 GHz,32
+AMD Ryzen Threadripper 3960X,"1,274",3.80 GHz,24
+AMD Ryzen 7 3800X,"1,271",3.90 GHz,8
+Intel Core i5-1130G7,"1,269",1.80 GHz,4
+Intel Core i7-10700F,"1,267",2.90 GHz,8
+Intel Core i7-10700,"1,267",2.90 GHz,8
+AMD Ryzen Threadripper Pro 3995WX,"1,266",2.70 GHz,64
+Intel Xeon E-2246G,"1,264",3.60 GHz,6
+Intel Xeon E-2236,"1,264",3.40 GHz,6
+Intel Xeon E-2234,"1,264",3.60 GHz,4
+Intel Core i7-10750H,"1,264",2.60 GHz,6
+AMD Ryzen Threadripper PRO 3975WX,"1,260",3.50 GHz,32
+Intel Core i7-1068NG7,"1,256",2.30 GHz,4
+Intel Core i7-1068G7,"1,256",2.30 GHz,4
+Intel Core i5-9600K,"1,256",3.70 GHz,6
+AMD Ryzen 7 PRO 4750G,"1,252",3.60 GHz,8
+AMD Ryzen 7 4700G,"1,252",3.60 GHz,8
+AMD Ryzen 7 3700X,"1,252",3.60 GHz,8
+Intel Core i5-8600K,"1,251",3.60 GHz,6
+Intel Core i3-1115G4,"1,245",1.70 GHz,2
+AMD Ryzen 5 3600X,"1,245",3.80 GHz,6
+Intel Xeon E-2278GE,"1,239",3.30 GHz,8
+Intel Xeon E-2226G,"1,239",3.40 GHz,6
+Intel Core i7-7700K,"1,229",4.20 GHz,4
+AMD Ryzen 9 4900U,"1,225",2.00 GHz,8
+AMD Ryzen 9 4900H,"1,225",3.30 GHz,8
+AMD Ryzen Threadripper 3990X,"1,219",2.90 GHz,64
+Intel Xeon E-2226GE,"1,218",3.40 GHz,6

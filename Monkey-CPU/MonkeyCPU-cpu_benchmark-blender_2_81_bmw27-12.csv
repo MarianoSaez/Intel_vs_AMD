@@ -1,0 +1,101 @@
+CPU NAME,BENCHMARK,FREC,CORES
+AMD Ryzen Threadripper 3990X,28.9,2.90 GHz,64
+AMD Ryzen Threadripper 3970X,44.5,3.70 GHz,32
+AMD Ryzen Threadripper 3960X,59.2,3.80 GHz,24
+AMD Ryzen Threadripper 2990WX,67.7,3.00 GHz,32
+Intel Core i9-10980XE,74.9,3.00 GHz,18
+AMD Ryzen Threadripper 2970WX,75.3,3.00 GHz,24
+Intel Core i9-7980XE,77.0,2.60 GHz,18
+AMD Ryzen 9 3950X,85.4,3.50 GHz,16
+Intel Core i9-9960X,104.3,3.10 GHz,16
+Intel Core i9-7960X,111.4,2.80 GHz,16
+Intel Core i9-10920X,115.3,3.50 GHz,12
+AMD Ryzen 9 3900X,115.9,3.80 GHz,12
+AMD Ryzen Threadripper 2950X,116.3,3.50 GHz,16
+Intel Core i9-7920X,120.9,2.90 GHz,12
+Intel Core i9-7940X,121.7,3.10 GHz,14
+AMD Ryzen Threadripper 1950X,124.0,3.40 GHz,16
+Intel Core i9-10900K,126.0,3.70 GHz,10
+Intel Core i9-10900KF,126.0,3.70 GHz,10
+Intel Core i9-10850K,129.0,3.60 GHz,10
+Intel Core i9-10900X,135.4,3.70 GHz,10
+Intel Core i9-7900X,137.7,3.30 GHz,10
+Intel Core i9-9920X,138.0,3.50 GHz,12
+AMD Ryzen Threadripper 2920X,148.0,3.50 GHz,12
+Intel Core i9-9900KS,148.0,4.00 GHz,8
+Intel Core i9-9820X,155.6,3.30 GHz,10
+AMD Ryzen Threadripper 1920X,160.5,3.50 GHz,12
+AMD Ryzen 7 4700G,160.8,3.60 GHz,8
+AMD Ryzen 7 PRO 4750G,160.8,3.60 GHz,8
+AMD Ryzen 7 3700X,160.8,3.60 GHz,8
+Intel Core i9-9900K,163.8,3.60 GHz,8
+Intel Core i9-9900KF,165.4,3.60 GHz,8
+AMD Ryzen 7 3800X,167.6,3.90 GHz,8
+Intel Core i9-9900X,169.7,3.50 GHz,10
+AMD Ryzen 9 5900HX,174.0,3.30 GHz,8
+Intel Xeon E5-2690 v3,185.5,2.60 GHz,12
+AMD Ryzen 9 4900H,202.0,3.30 GHz,8
+AMD Ryzen 9 4900HS,208.0,3.00 GHz,8
+AMD Ryzen 7 2700X,211.2,3.70 GHz,8
+Intel Core i7-7820X,212.0,3.60 GHz,8
+AMD Ryzen Threadripper 1900X,215.1,3.80 GHz,8
+Intel Core i7-9700K,217.1,3.60 GHz,8
+AMD Ryzen 7 1700X,217.8,3.40 GHz,8
+Intel Core i7-8086K,224.4,3.70 GHz,6
+Intel Core i7-10875H,225.0,2.30 GHz,8
+Intel Core i5-10600K,228.0,4.10 GHz,6
+Intel Core i5-10600KF,228.0,4.10 GHz,6
+Intel Core i7-9700,228.8,3.00 GHz,8
+AMD Ryzen 5 PRO 4650G,230.0,3.70 GHz,6
+Intel Core i7-10870H,230.0,2.20 GHz,8
+AMD Ryzen 7 2700,231.0,3.20 GHz,8
+Intel Core i7-8700,231.5,3.20 GHz,6
+Intel Core i7-8700K,232.4,3.70 GHz,6
+AMD Ryzen 5 3600X,233.9,3.80 GHz,6
+Intel Xeon E5-1660 v4,234.1,3.20 GHz,8
+AMD Ryzen 7 1700,235.6,3.00 GHz,8
+AMD Ryzen 5 3600,235.7,3.60 GHz,6
+AMD Ryzen 7 1800X,241.2,3.60 GHz,8
+Intel Core i9-9880H,242.2,2.30 GHz,8
+Intel Core i9-9980HK,251.2,2.40 GHz,8
+Intel Core i7-5960X,254.1,3.00 GHz,8
+AMD Ryzen 5 2600X,278.4,3.60 GHz,6
+Intel Core i7-6850K,279.7,3.60 GHz,6
+Intel Core i7-9700KF,288.4,3.60 GHz,8
+Intel Xeon E5-2643 v4,290.2,3.40 GHz,6
+AMD Ryzen 5 2600,292.5,3.40 GHz,6
+Intel Xeon E5-2687W v2,297.1,3.40 GHz,8
+Intel Xeon E5-1650 v4,305.3,3.60 GHz,6
+Intel Core i7-9750H,307.0,2.60 GHz,6
+Intel Core i7-9750HF,307.0,2.60 GHz,6
+AMD A10-6800K,309.5,4.10 GHz,4
+AMD Ryzen 5 1600,313.0,3.20 GHz,6
+Intel Core i7-5930K,313.2,3.50 GHz,6
+Intel Core i5-9600KF,315.5,3.70 GHz,6
+Intel Xeon E5-1650 v3,318.4,3.50 GHz,6
+Intel Core i5-9600K,318.4,3.70 GHz,6
+AMD Ryzen 5 1600X,323.8,3.30 GHz,6
+Intel Core i7-5820K,331.7,3.30 GHz,6
+Intel Xeon E-2276M,333.8,2.80 GHz,6
+Intel Core i7-7700K,335.8,4.20 GHz,4
+Intel Xeon E5-2660 v2,336.4,2.20 GHz,10
+Intel Core i5-9400F,367.5,2.90 GHz,6
+Intel Core i7-6700K,369.3,4.00 GHz,4
+Intel Core i7-8750H,369.4,2.20 GHz,6
+AMD Ryzen 5 1600 AF,372.4,3.20 GHz,6
+Intel Core i5-8600K,374.8,3.60 GHz,6
+Intel Core i5-9400,378.1,2.90 GHz,6
+Intel Core i7-7700,387.7,3.60 GHz,4
+Intel Core i5-8400,400.9,2.80 GHz,6
+Intel Xeon E5-1650 v2,403.8,3.50 GHz,6
+AMD Epyc 7702,403.9,2.00 GHz,64
+Intel Core i7-4790K,407.0,4.00 GHz,4
+Intel Core i7-6700,409.7,3.40 GHz,4
+Intel Core i7-8809G,415.8,3.10 GHz,4
+Intel Core i7-3930k,427.7,3.20 GHz,6
+AMD Ryzen 5 3400G,458.6,3.70 GHz,4
+AMD Ryzen 5 PRO 3400G,458.6,3.70 GHz,4
+Intel Core i7-4790,460.8,3.60 GHz,4
+Intel Core i7-6820HQ,471.7,2.70 GHz,4
+Intel Core i7-4770,473.6,3.40 GHz,4
+Intel Core i7-4790S,476.5,3.20 GHz,4

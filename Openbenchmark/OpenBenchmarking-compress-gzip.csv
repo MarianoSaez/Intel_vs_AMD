@@ -1,0 +1,177 @@
+Cpu name,Percentile,Average,St D
+AMD Ryzen 9 5950X 16-Core,98th,29,1
+Intel Core i7-8086K,98th,29,1
+Intel Core i9-10900K,98th,29,1
+Intel Core i9-9900KS,97th,30,1
+AMD Ryzen 7 5800X 8-Core,97th,30,2
+Intel Core i7-9700K,97th,30,1
+AMD Ryzen 5 5600X 6-Core,97th,31,1
+Intel Core i9-9900K,96th,31,3
+Intel Core i7-7700K,96th,32,1
+Intel Core i9-10980XE,95th,33,1
+Intel Core i5-9500,95th,33,-
+AMD Ryzen 9 3950X 16-Core,94th,34,1
+Intel Core i7-8700,94th,34,2
+AMD Ryzen Threadripper 3960X 24-Core,93rd,34,-
+AMD Ryzen 3 3300X 4-Core,93rd,34,-
+Intel Core i7-4790K,93rd,34,2
+AMD Ryzen 9 3900X 12-Core,92nd,35,2
+AMD Ryzen 9 3900XT 12-Core,92nd,35,3
+Intel Core i7-5820K,91st,35,4
+AMD Ryzen Threadripper 3970X 32-Core,91st,35,2
+Intel Core i7-7800X,90th,35,1
+Intel Core i7-8565U,90th,36,-
+Intel Core i5-4690K,89th,36,3
+AMD Ryzen Threadripper 2920X 12-Core,89th,36,-
+Intel Core i5-3570K,89th,36,3
+AMD Ryzen 5 3600 6-Core,89th,36,1
+AMD Ryzen 7 2700X Eight-Core,89th,36,3
+AMD Ryzen 5 2600X Six-Core,88th,37,3
+Intel Core i7-6700K,87th,37,1
+Intel Core i5-9400F,87th,37,-
+Intel Core i5-4670K,87th,37,-
+AMD Ryzen 5 3600X 6-Core,87th,37,3
+Intel Pentium G3258,87th,37,5
+Intel Core i7-7700,87th,37,4
+AMD Ryzen Threadripper 1900X 8-Core,87th,37,2
+AMD Ryzen Threadripper 1950X 16-Core,87th,37,3
+AMD Ryzen Threadripper 1920X 12-Core,86th,38,1
+AMD Ryzen 7 2700 Eight-Core,86th,38,2
+AMD Ryzen 3 3200G,86th,38,1
+Intel Core i7-2600K,86th,38,4
+2 x Intel Xeon Gold 6226R,85th,38,-
+Intel Core i7-1065G7,84th,39,3
+AMD EPYC 7F52 16-Core,84th,39,-
+AMD Ryzen Threadripper 2990WX 32-Core,84th,39,3
+AMD EPYC 7F32 8-Core,84th,39,-
+AMD Ryzen 5 2400G with Radeon Vega,83rd,39,2
+Intel Core i7-4770,82nd,40,2
+Intel Core i7-7820HQ,82nd,40,2
+Intel Core i7-3770,82nd,40,1
+Intel Xeon E3-1245 v5,82nd,40,1
+AMD Ryzen 5 2600 Six-Core,82nd,40,-
+Intel Core i5-8400,81st,40,3
+Intel Core i7-2700K,81st,40,1
+2 x Intel Xeon Gold 6140,81st,40,2
+Apple M1,80th,40,3
+AMD Ryzen 3 2200G,80th,40,1
+Intel Xeon Silver 4215R,80th,40,1
+2 x Intel Xeon E5-2637 v4,80th,40,1
+Intel Xeon Gold 6238R,79th,41,1
+AMD EPYC 7F72 24-Core,79th,41,-
+Intel Xeon Gold 5218,77th,41,2
+Intel Core i7-4960X,77th,41,1
+Intel Xeon Gold 6226R,77th,42,1
+Intel Xeon E5-2667 v4,77th,42,-
+2 x AMD EPYC 7742 64-Core,75th,42,1
+AMD Ryzen 5 1600X Six-Core,75th,42,2
+2 x Intel Xeon E5-2643 v3,74th,43,-
+Intel Core i5-7260U,73rd,43,2
+2 x AMD EPYC 7302 16-Core,73rd,43,-
+Intel Core i7-2600,73rd,43,3
+2 x Intel Xeon E5-2680 v2,73rd,43,1
+2 x Intel Xeon E5-2698 v3,72nd,44,1
+Intel Xeon Gold 5217,72nd,44,1
+AMD Ryzen 7 2700U,71st,44,2
+2 x Intel Xeon Platinum 8168,71st,44,2
+2 x Intel Xeon Gold 6148,71st,44,2
+AMD EPYC 7542 32-Core,71st,44,-
+Intel Core i7-3520M,70th,44,-
+2 x Intel Xeon E5-2699 v3,70th,44,2
+2 x Intel Xeon E5-2697 v3,70th,44,1
+AMD EPYC 7302P 16-Core,70th,44,2
+AMD EPYC 7702 64-Core,70th,45,1
+AMD EPYC 7452 32-Core,69th,45,-
+AMD EPYC 7402P 24-Core,69th,45,1
+AMD EPYC 7642 48-Core,69th,45,1
+2 x AMD EPYC 7402 24-Core,69th,45,2
+AMD EPYC 7502P 32-Core,69th,45,-
+Intel Core i5-3470,68th,45,6
+AMD EPYC 7262 8-Core,68th,45,-
+AMD Ryzen 5 2500U,68th,45,2
+AMD EPYC 7702P 64-Core,68th,45,2
+AMD EPYC 7502 32-Core,68th,45,-
+AMD EPYC 7552 48-Core,67th,45,-
+Intel Core i7 990X,66th,46,1
+AMD EPYC 7601 32-Core,66th,46,-
+AMD Ryzen 5 1600 Six-Core,66th,46,-
+AMD EPYC 7662 64-Core,66th,46,-
+2 x AMD EPYC 7601 32-Core,66th,46,-
+AMD Ryzen 5 1500X,66th,46,5
+2 x Intel Xeon Gold 6230,65th,46,7
+Intel Core i3-2120,65th,46,-
+AMD EPYC 7532 32-Core,65th,46,-
+Intel Xeon Silver 4214R,65th,46,2
+Intel Core i7-6820HQ,64th,47,3
+2 x Intel Xeon Silver 4215,64th,47,-
+AMD EPYC 7232P 8-Core,64th,47,1
+POWER8,64th,47,2
+AMD EPYC 7282 16-Core,63rd,47,-
+AMD Ryzen 7 1700 Eight-Core,63rd,47,3
+AMD EPYC 7272 12-Core,63rd,47,-
+AMD EPYC 7252 8-Core,63rd,47,-
+2 x Intel Xeon E5-2680 v3,63rd,47,1
+2 x Intel Xeon E5-2660 v4,61st,48,2
+AMD EPYC 7352 24-Core,61st,48,-
+Intel Core i7-4600U,60th,48,5
+2 x Intel Xeon E5-2667 0,60th,49,2
+Intel Core i5-2520M,59th,49,1
+2 x Intel Xeon Gold 5118,58th,50,3
+2 x Intel Xeon E5-2683 v4,57th,50,1
+2 x Intel Xeon E5-2669 v3,57th,50,1
+2 x AMD EPYC 7452 32-Core,57th,50,7
+POWER9 44-Core,57th,50,-
+Intel Xeon Silver 4216,56th,50,2
+AMD EPYC 7401P 24-Core,56th,50,2
+2 x Intel Xeon E5-2670 0,56th,51,6
+Intel Core i5-5300U,55th,51,2
+Intel Core i5-2320,54th,51,3
+AMD Ryzen 3 2200U,50th,53,7
+ARMv8 Neoverse-N1 32-Core,49th,53,-
+ARMv8 Neoverse-N1 8-Core,48th,53,-
+Intel Xeon Silver 4210,47th,53,5
+2 x Intel Xeon Silver 4114,47th,53,5
+Intel Core i5-6260U,47th,53,-
+2 x AMD EPYC 7351 16-Core,47th,54,-
+AMD Athlon II X4 630,47th,54,-
+2 x AMD EPYC 7532 32-Core,46th,54,8
+2 x Intel Xeon Silver 4110,46th,54,4
+2 x Intel Xeon Silver 4108,46th,54,1
+Intel Xeon Silver 4110,44th,55,6
+2 x Intel Xeon X5570,44th,55,4
+Intel Core i5-6300HQ,44th,55,2
+Intel Core i5-4300U,44th,55,1
+AMD EPYC 7351P 16-Core,44th,55,4
+2 x Intel Xeon E5540,42nd,56,-
+AMD FX-8350 Eight-Core,39th,58,2
+2 x AMD EPYC 7551 32-Core,39th,58,4
+AMD FX-6300 Six-Core,38th,58,5
+AMD A6-6400K APU,36th,60,2
+2 x Intel Xeon E5-2680 0,35th,60,1
+2 x Intel Xeon E5620,34th,61,2
+AMD EPYC 7551P 32-Core,34th,61,1
+Intel Xeon E5-2620 0,34th,62,2
+Intel Core 2 Duo E6750,32nd,63,-
+AMD A6-5400K APU,32nd,63,-
+2 x Intel Xeon X5355,30th,64,2
+2 x Intel Xeon E5-2620 v2,29th,66,3
+2 x Intel Xeon E5-2620 v4,28th,70,1
+2 x Intel Xeon E5420,27th,71,1
+Intel Core 2 Duo P8400,26th,73,1
+Ampere eMAG ARMv8 32-Core,25th,75,-
+Intel Family 6 Model 45 Stepping 7 Intel,25th,75,1
+Intel Xeon Gold 6138,24th,76,2
+Intel Xeon E5-2450L 0,19th,86,-
+Intel Celeron J3455,17th,92,-
+ARMv8 rev 0 6-Core,17th,92,1
+Intel Celeron J1900,15th,106,12
+Intel Celeron N2920,12th,132,12
+AMD A4-5300 APU,11th,141,3
+ARMv7 Cortex-A72 4-Core,10th,153,19
+ARMv8 Cortex-A72 4-Core,10th,154,22
+ARMv7 rev 3 8-Core,9th,161,18
+Loongson-3A R3,8th,181,5
+Intel Pentium 4 3.20GHz,7th,203,3
+ARMv7 rev 4 4-Core,4th,281,27
+ARMv7 Cortex-A53 4-Core,4th,293,2
+ARMv7 rev 5 4-Core,3rd,390,47

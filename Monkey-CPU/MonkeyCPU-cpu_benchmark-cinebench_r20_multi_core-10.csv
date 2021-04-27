@@ -1,0 +1,101 @@
+CPU NAME,BENCHMARK,FREC,CORES
+AMD Ryzen Threadripper 3990X,"24,763",2.90 GHz,64
+AMD Ryzen Threadripper Pro 3995WX,"24,463",2.70 GHz,64
+AMD Epyc 7742,"20,644",2.25 GHz,64
+AMD Epyc 7702P,"18,857",2.00 GHz,64
+AMD Epyc 7702,"18,857",2.00 GHz,64
+AMD Epyc 7662,"18,203",2.00 GHz,64
+AMD Ryzen Threadripper PRO 3975WX,"17,768",3.50 GHz,32
+AMD Ryzen Threadripper 3970X,"17,444",3.70 GHz,32
+AMD Ryzen Threadripper 3960X,"13,552",3.80 GHz,24
+Intel Xeon W-3175X,"12,975",3.10 GHz,28
+AMD Ryzen Threadripper 2990WX,"11,463",3.00 GHz,32
+Intel Xeon W-3275,"11,020",2.50 GHz,28
+Intel Xeon W-3275M,"11,020",2.50 GHz,28
+AMD Ryzen 9 5950X,"10,428",3.40 GHz,16
+AMD Ryzen Threadripper 2970WX,"10,008",3.00 GHz,24
+Intel Xeon W-3265M,"9,723",2.70 GHz,24
+Intel Xeon W-3265,"9,723",2.70 GHz,24
+Intel Xeon Gold 6126,"9,189",2.60 GHz,12
+AMD Ryzen 9 3950X,"9,148",3.50 GHz,16
+Intel Core i9-10980XE,"8,848",3.00 GHz,18
+Intel Xeon Platinum 8180,"8,585",2.50 GHz,28
+AMD Ryzen 9 5900X,"8,468",3.70 GHz,12
+Intel Core i9-7980XE,"7,671",2.60 GHz,18
+Intel Core i9-9980XE,"7,516",3.00 GHz,18
+AMD Epyc 7601,"7,445",2.20 GHz,32
+Intel Xeon W-3245M,"7,444",3.20 GHz,16
+Intel Xeon W-3245,"7,444",3.20 GHz,16
+AMD Ryzen 9 3900XT,"7,244",4.10 GHz,12
+AMD Ryzen 9 3900X,"7,178",3.80 GHz,12
+AMD Ryzen Threadripper 2950X,"7,003",3.50 GHz,16
+AMD Epyc 7451,"6,768",2.30 GHz,24
+AMD Ryzen Threadripper 1950X,"6,731",3.40 GHz,16
+Intel Core i9-9960X,"6,671",3.10 GHz,16
+Intel Core i9-10900KF,"6,419",3.70 GHz,10
+Intel Core i9-10900K,"6,419",3.70 GHz,10
+Intel Core i9-10900,"6,378",2.80 GHz,10
+Intel Xeon Gold 6148,"6,342",2.40 GHz,20
+Intel Core i9-10850K,"6,318",3.60 GHz,10
+Intel Core i9-11900KF,"6,214",3.50 GHz,8
+Intel Core i9-11900K,"6,214",3.50 GHz,8
+Intel Core i9-10900F,"5,912",2.80 GHz,10
+Intel Core i9-9940X,"5,912",3.30 GHz,14
+AMD Ryzen Threadripper 2920X,"5,843",3.50 GHz,12
+Intel Xeon W-3235,"5,742",3.30 GHz,12
+AMD Ryzen 7 5800X,"5,724",3.80 GHz,8
+Intel Xeon E5-2697 v4,"5,697",2.30 GHz,18
+Intel Core i7-11700KF,"5,615",3.60 GHz,8
+Intel Core i7-11700K,"5,615",3.60 GHz,8
+AMD Ryzen 9 5900HX,"5,536",3.30 GHz,8
+AMD Ryzen 7 PRO 5750G,"5,465",3.80 GHz,8
+AMD Ryzen 7 5700G,"5,465",3.80 GHz,8
+Intel Xeon Gold 6130,"5,386",2.10 GHz,16
+AMD Ryzen Threadripper 1920X,"5,326",3.50 GHz,12
+Intel Core i7-10700KF,"5,292",3.80 GHz,8
+Intel Core i7-10700K,"5,292",3.80 GHz,8
+Intel Core i9-7900X,"5,286",3.30 GHz,10
+Intel Xeon Platinum 8160M,"5,259",2.10 GHz,24
+Intel Core i9-9900KS,"5,226",4.00 GHz,8
+Intel Core i9-9920X,"5,179",3.50 GHz,12
+Intel Core i7-7820X,"5,155",3.60 GHz,8
+AMD Ryzen 7 3800XT,"5,122",4.20 GHz,8
+AMD Ryzen 7 5800H,"5,051",3.20 GHz,8
+Intel Core i9-9900KF,"4,995",3.60 GHz,8
+Intel Core i9-9900K,"4,995",3.60 GHz,8
+Intel Xeon E5-2699 v4,"4,981",2.20 GHz,22
+AMD Ryzen 7 3800X,"4,960",3.90 GHz,8
+Intel Xeon E5-2643 v4,"4,905",3.40 GHz,6
+Intel Core i9-9900X,"4,855",3.50 GHz,10
+AMD Ryzen 7 PRO 4750G,"4,834",3.60 GHz,8
+AMD Ryzen 7 4700G,"4,834",3.60 GHz,8
+Intel Core i7-10700F,"4,834",2.90 GHz,8
+Intel Core i7-10700,"4,834",2.90 GHz,8
+AMD Ryzen 7 3700X,"4,834",3.60 GHz,8
+Intel Core i9-10900T,"4,768",1.90 GHz,10
+AMD Epyc 7351,"4,728",2.40 GHz,16
+Intel Core i9-9820X,"4,677",3.30 GHz,10
+AMD Ryzen 5 5600X,"4,562",3.70 GHz,6
+AMD Ryzen 9 5980HX,"4,560",3.30 GHz,8
+AMD Ryzen 9 5980HS,"4,546",3.00 GHz,8
+AMD Ryzen 5 PRO 5650G,"4,511",3.90 GHz,6
+AMD Ryzen 5 5600G,"4,511",3.90 GHz,6
+AMD Ryzen 7 4700GE,"4,425",3.10 GHz,8
+Intel Xeon E5-2620 v4,"4,349",2.10 GHz,8
+Intel Core i9-9900,"4,346",3.10 GHz,8
+Intel Xeon Gold 5120,"4,344",2.20 GHz,14
+Intel Core i9-9800X,"4,338",3.80 GHz,8
+AMD Ryzen 9 4900H,"4,332",3.30 GHz,8
+AMD Ryzen 7 Pro 5850U,"4,320",1.90 GHz,8
+AMD Ryzen 7 5800U,"4,320",1.90 GHz,8
+AMD Ryzen 9 4900HS,"4,315",3.00 GHz,8
+Intel Core i5-11600KF,"4,293",3.90 GHz,6
+Intel Core i5-11600K,"4,293",3.90 GHz,6
+Intel Xeon Gold 6144,"4,283",3.50 GHz,8
+Intel Xeon E-2288G,"4,277",3.70 GHz,8
+AMD Ryzen 9 5900HS,"4,260",3.00 GHz,8
+Intel Xeon W-3225,"4,120",3.70 GHz,8
+Intel Xeon E5-2695 v3,"4,109",2.30 GHz,14
+AMD Ryzen 7 2700X,"3,951",3.70 GHz,8
+Intel Xeon W-3223,"3,941",3.50 GHz,8
+Intel Core i9-9900T,"3,920",2.10 GHz,8

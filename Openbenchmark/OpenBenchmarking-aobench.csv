@@ -1,0 +1,137 @@
+Cpu name,Percentile,Average,St D
+Apple M1,100th,22,-
+Intel Core i9-10900K,99th,26,1
+Intel Core i7-1165G7,99th,27,2
+Intel Core i9-9900KS,97th,28,-
+AMD Ryzen 7 5800X 8-Core,97th,28,-
+AMD Ryzen 9 5950X 16-Core,97th,28,3
+Intel Core i9-10980XE,97th,28,2
+AMD Ryzen 7 PRO 4750G,96th,28,2
+Intel Core i5-10600K,96th,29,-
+AMD Ryzen 9 5900X 12-Core,95th,29,2
+AMD Ryzen 5 5600X 6-Core,95th,29,-
+Intel Core i9-7920X,95th,29,-
+AMD Ryzen Threadripper 3990X 64-Core,94th,30,1
+Intel Core i9-9900K,94th,30,3
+AMD Ryzen 9 3900XT 12-Core,94th,30,1
+Intel Core i7-8700B,93rd,31,1
+AMD Ryzen 9 3950X 16-Core,92nd,31,1
+AMD Ryzen Threadripper 3970X 32-Core,91st,31,1
+AMD Ryzen 3 3300X 4-Core,91st,31,-
+AMD Ryzen 7 3800X 8-Core,91st,32,1
+Intel Core i7-8086K,90th,32,-
+Intel Core i3-10100,89th,33,-
+AMD Ryzen 5 3600 6-Core,89th,33,1
+AMD Ryzen 9 3900X 12-Core,89th,33,3
+Intel Core i7-7567U,89th,33,1
+AMD Ryzen 7 3700X 8-Core,88th,33,4
+Intel Core i5-7600K,87th,34,1
+AMD EPYC 7F32 8-Core,87th,34,1
+Intel Xeon W-2295,86th,34,1
+Intel Core i7-6700K,86th,35,2
+Intel Core i7-7700K,86th,35,3
+AMD EPYC 7F52 16-Core,85th,35,3
+AMD Ryzen 5 3600X 6-Core,85th,35,4
+AMD EPYC 7F72 24-Core,85th,35,-
+AMD Ryzen Threadripper 2920X 12-Core,85th,35,-
+Intel Core i7-4790K,85th,35,2
+Intel Core i9-7960X,84th,36,3
+Intel Xeon Silver 4215R,83rd,36,3
+Intel Core i5-9500,83rd,36,-
+Intel Core i7-7900X,83rd,36,2
+Intel Xeon Gold 5218,81st,37,4
+Intel Xeon Gold 6226R,81st,38,4
+Intel Core i5-8400,81st,38,3
+AMD Ryzen 7 2700X Eight-Core,80th,38,3
+AMD Ryzen Threadripper 2950X 16-Core,80th,38,3
+Intel Xeon Gold 5217,79th,38,3
+AMD EPYC 7262 8-Core,79th,39,-
+AMD EPYC 7542 32-Core,79th,39,1
+AMD EPYC 7502 32-Core,79th,39,2
+Intel Core i5-4670,78th,39,3
+AMD EPYC 7452 32-Core,77th,39,-
+AMD EPYC 7502P 32-Core,76th,39,1
+AMD EPYC 7702 64-Core,76th,39,1
+Intel Core i7-8700,74th,39,5
+AMD EPYC 7552 48-Core,73rd,40,1
+AMD EPYC 7662 64-Core,73rd,40,1
+AMD EPYC 7532 32-Core,73rd,40,1
+2 x Intel Xeon Platinum 8280,72nd,40,5
+AMD EPYC 7642 48-Core,72nd,40,3
+AMD EPYC 7402P 24-Core,71st,40,3
+2 x AMD EPYC 7742 64-Core,71st,40,3
+AMD Ryzen 7 2700 Eight-Core,71st,40,3
+Intel Xeon Platinum 8124M,69th,41,-
+2 x Intel Xeon Gold 5220R,68th,41,4
+AMD EPYC 7282 16-Core,67th,41,1
+AMD EPYC 7252 8-Core,67th,41,-
+AMD EPYC 7272 12-Core,65th,41,1
+AMD EPYC 7352 24-Core,65th,41,-
+Intel Xeon Silver 4214R,65th,41,4
+Intel Pentium G3258,65th,41,4
+Intel Xeon E3-1231 v3,64th,41,3
+Intel Core i7-5960X,64th,42,5
+Intel Core i7,64th,42,5
+AMD EPYC 7232P 8-Core,63rd,42,3
+AMD Ryzen 5 2600X Six-Core,63rd,42,5
+Intel Core i7-4700HQ,62nd,42,2
+Intel Xeon E5-2687W v3,62nd,42,4
+Intel Core i3-7100,61st,43,6
+AMD Ryzen 5 2400G,61st,43,2
+AMD Ryzen Threadripper 1950X 16-Core,61st,43,3
+AMD Ryzen 5 1600X Six-Core,60th,43,3
+AMD Ryzen 3 1300X,60th,43,2
+AMD Ryzen 7 1800X Eight-Core,60th,43,3
+Intel Core i3-8100,60th,43,2
+AMD Ryzen 3 2200G,59th,44,3
+AMD Ryzen 3 3200U,58th,45,3
+Intel Core i5-4278U,57th,45,1
+Intel Xeon Silver 4216,56th,46,4
+Intel Core i5-4460,55th,46,3
+Intel Core i5-4440,54th,47,4
+Intel Core i5-7300U,53rd,48,2
+Intel Core i7-2700K,53rd,48,-
+2 x Intel Xeon Platinum 8268,51st,49,5
+Intel Core i7-4960X,51st,50,7
+AMD EPYC 7401P 24-Core,50th,50,3
+Intel Core i7-4500U,49th,51,4
+Intel Core i3-2120,48th,52,4
+AMD EPYC 7601 32-Core,48th,53,4
+2 x AMD EPYC 7601 32-Core,47th,53,6
+2 x Intel Xeon E5-2680 v2,46th,54,6
+AMD EPYC 7351P 16-Core,45th,55,5
+2 x Intel Xeon Silver 4110,43rd,57,5
+Intel Core i5-3330S,43rd,57,1
+2 x Intel Xeon E5-2683 v4,41st,58,8
+AMD FX-8370E Eight-Core,40th,61,2
+Intel Core i3-8100T,40th,61,7
+Intel Core i7 990X,40th,61,7
+POWER9 altivec supported 44-Core,40th,61,2
+POWER9 4-Core,38th,63,3
+POWER9 44-Core,36th,65,6
+2 x Intel Xeon E5-2680 0,35th,67,-
+Intel Xeon E5-2620 0,34th,68,6
+AMD A10-7870K Radeon R7 12 Compute Cores 4C,34th,68,4
+POWER9 altivec supported 64-Core,34th,68,-
+AMD FX-6300 Six-Core,32nd,71,5
+AMD FX-8350 Eight-Core,31st,74,11
+AMD A6-5400K APU,26th,83,-
+ARMv8 Cortex-A73 8-Core,25th,86,3
+2 x Intel Xeon E5-2450L 0,25th,86,8
+ARMv8 Cortex-A72 16-Core,22nd,93,-
+Intel Core 2 Quad Q9400,20th,105,13
+ARMv8 Cortex-A73 6-Core,19th,113,14
+Intel Atom C3950,19th,115,-
+ARMv7 Cortex-A72 4-Core,19th,120,9
+Intel Core 2 Duo P7350,18th,122,11
+ARMv7 Cortex-A15 8-Core,17th,126,12
+Intel Core 2 Duo T7100,16th,146,-
+ARMv7 4-Core,13th,161,8
+2 x Intel Xeon E5-2630 v3,12th,173,1
+ARMv8 rev 1 4-Core,11th,181,11
+phytium FT1500a,11th,184,2
+Intel Atom x5-Z8350,8th,262,13
+ARMv7 Cortex-A53 4-Core,6th,300,36
+ARMv7 rev 4 4-Core,6th,303,23
+ARMv7 Cortex-A7 4-Core,2nd,526,36
+ARMv7 rev 5 4-Core,2nd,629,80

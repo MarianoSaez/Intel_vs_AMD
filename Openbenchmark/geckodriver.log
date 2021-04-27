@@ -1,0 +1,1272 @@
+1617042054656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQoHhnu"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617042055906	Marionette	INFO	Listening on port 43243
+1617042055975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617042086881	Marionette	INFO	Stopped listening on port 43243
+1617042247099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerZsOd3"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617042248327	Marionette	INFO	Listening on port 38119
+1617042248416	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617042280449	Marionette	INFO	Stopped listening on port 38119
+1617737943531	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2Ypqd0"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617737944837	Marionette	INFO	Listening on port 35643
+1617737944951	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/boot.js?ver=1.0"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://nextcloud.com/wp-content/themes/next/node_modules/requirejs/require.min.js?x53054, line 17: Error: Script error for "velocityUI", needed by: modules/header
+http://requirejs.org/docs/errors.html#scripterror
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617738494609	Marionette	INFO	Stopped listening on port 35643
+1617738653554	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4FozJJ"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617738654846	Marionette	INFO	Listening on port 45013
+1617738654877	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/boot.js?ver=1.0"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://riot.im/app/bundles/6421c751c3aa2dc359ed/vendors~init.js, line 2: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617738708144	Marionette	INFO	Stopped listening on port 45013
+1617738978788	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0o74Qx"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617738980111	Marionette	INFO	Listening on port 34435
+1617738980218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617739178539	Marionette	INFO	Stopped listening on port 34435
+1617739182641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei48MkQ"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617739183886	Marionette	INFO	Listening on port 44511
+1617739183959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/api/config?cb=178a8c50590", needed by: /common/boot.js?ver=1.0
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s0.2mdn.net/8499737/1612290384781/index.html, line 278: TypeError: studio.Enabler is undefined
+JavaScript error: https://riot.im/app/bundles/6421c751c3aa2dc359ed/vendors~init.js, line 2: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1617739225046	Marionette	INFO	Stopped listening on port 44511
+1617739583644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekc6Y9O"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617739585040	Marionette	INFO	Listening on port 46523
+1617739585065	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617739613317	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesLIlaz"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617739614591	Marionette	INFO	Listening on port 34831
+1617739614636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://nextcloud.com/wp-content/themes/next/node_modules/requirejs/require.min.js?x53054, line 17: Error: Script error for "velocityUI", needed by: modules/header
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://riot.im/app/bundles/6421c751c3aa2dc359ed/vendors~init.js, line 2: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1617739748971	Marionette	INFO	Stopped listening on port 34831
+1617739751197	Marionette	INFO	Stopped listening on port 46523
+1617739923734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6zKbRb"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617739925043	Marionette	INFO	Listening on port 40849
+1617739925152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617739928873	Marionette	INFO	Stopped listening on port 40849
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 446: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1617740341894	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileETEDWi"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617740343172	Marionette	INFO	Listening on port 34553
+1617740343215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617740346721	Marionette	INFO	Stopped listening on port 34553
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 446: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1617740843102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei0CYtp"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617740844447	Marionette	INFO	Listening on port 37961
+1617740844523	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617740847796	Marionette	INFO	Stopped listening on port 37961
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/boot.js?ver=1.0"
+http://requirejs.org/docs/errors.html#scripterror
+1617740850183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekBBczG"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617740851517	Marionette	INFO	Listening on port 44505
+1617740851610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+1617740857089	Marionette	INFO	Stopped listening on port 44505
+1617740858493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexPFUw5"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617740860002	Marionette	INFO	Listening on port 41123
+1617740860132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617740863221	Marionette	INFO	Stopped listening on port 41123
+1617740864608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8WdS4j"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617740866012	Marionette	INFO	Listening on port 38423
+1617740866144	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/api/config?cb=178a8deb044", needed by: /common/boot.js?ver=1.0
+http://requirejs.org/docs/errors.html#scripterror
+1617740874566	Marionette	INFO	Stopped listening on port 38423
+1617740875979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWX47hy"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617740877517	Marionette	INFO	Listening on port 38153
+1617740877605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+1617740882750	Marionette	INFO	Stopped listening on port 38153
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617740884134	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXWKSbP"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617740885655	Marionette	INFO	Listening on port 38159
+1617740885771	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617740888907	Marionette	INFO	Stopped listening on port 38159
+1617740890299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4sMvYY"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617740891811	Marionette	INFO	Listening on port 46279
+1617740891923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+1617740897294	Marionette	INFO	Stopped listening on port 46279
+1617741229460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile59befj"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617741231007	Marionette	INFO	Listening on port 39913
+1617741231088	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/api/config?cb=178a8e446bc", needed by: /common/boot.js?ver=1.0
+http://requirejs.org/docs/errors.html#scripterror
+1617741239862	Marionette	INFO	Stopped listening on port 39913
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617741242163	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile57aAPV"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617741243591	Marionette	INFO	Listening on port 42921
+1617741243682	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://nextcloud.com/wp-content/themes/next/node_modules/requirejs/require.min.js?x53054, line 17: Error: Script error for "bodymovin", needed by: modules/header
+http://requirejs.org/docs/errors.html#scripterror
+1617741315329	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZxGl1r"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617741316758	Marionette	INFO	Listening on port 40935
+1617741316857	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+1617741320904	Marionette	INFO	Stopped listening on port 40935
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617741322301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePgXGyq"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617741323624	Marionette	INFO	Listening on port 40729
+1617741323762	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617741328888	Marionette	INFO	Stopped listening on port 40729
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/boot2.js"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 446: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1617741330285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeGG7WI"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617741331789	Marionette	INFO	Listening on port 39887
+1617741331916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617741335318	Marionette	INFO	Stopped listening on port 39887
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+1617741336739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu327ar"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617741338285	Marionette	INFO	Listening on port 44595
+1617741338360	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617741341975	Marionette	INFO	Stopped listening on port 44595
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/api/config", needed by: /common/requireconfig.js
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://gre/modules/BackgroundPageThumbs.jsm, line 309: TypeError: this._captureQueue is undefined
+1617741343363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0sZkbE"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617741344876	Marionette	INFO	Listening on port 44551
+1617741344989	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617741348254	Marionette	INFO	Stopped listening on port 44551
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/boot2.js"
+http://requirejs.org/docs/errors.html#scripterror
+1617741349634	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXaHzbU"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617741351184	Marionette	INFO	Listening on port 39441
+1617741351254	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617741354518	Marionette	INFO	Stopped listening on port 39441
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/boot2.js"
+http://requirejs.org/docs/errors.html#scripterror
+1617741355895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTBbI3q"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617741357515	Marionette	INFO	Listening on port 40335
+1617741357617	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/boot2.js"
+http://requirejs.org/docs/errors.html#scripterror
+1617741361375	Marionette	INFO	Stopped listening on port 40335
+1617741443543	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5I88Xb"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617741445081	Marionette	INFO	Listening on port 40793
+1617741445181	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+1617741449739	Marionette	INFO	Stopped listening on port 40793
+1617741452123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCfnism"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617741453573	Marionette	INFO	Listening on port 40267
+1617741453643	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617741456983	Marionette	INFO	Stopped listening on port 40267
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/boot2.js"
+http://requirejs.org/docs/errors.html#scripterror
+1617741458371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2aUUS5"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617741459794	Marionette	INFO	Listening on port 38681
+1617741459891	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617741462994	Marionette	INFO	Stopped listening on port 38681
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/api/config?cb=178a8e7bb80", needed by: /common/boot.js?ver=1.0
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 446: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1617741464400	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3ZOrBO"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617741465781	Marionette	INFO	Listening on port 44935
+1617741465822	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617741472415	Marionette	INFO	Stopped listening on port 44935
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/boot2.js"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 446: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1617741475832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehPFSwW"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617741477287	Marionette	INFO	Listening on port 33185
+1617741477352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617741480810	Marionette	INFO	Stopped listening on port 33185
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/boot2.js"
+http://requirejs.org/docs/errors.html#scripterror
+1617741482180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileajQMoQ"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617741483542	Marionette	INFO	Listening on port 40003
+1617741483599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617741486631	Marionette	INFO	Stopped listening on port 40003
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 446: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1617741488004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTXL0rf"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617741489337	Marionette	INFO	Listening on port 44351
+1617741489425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617741492484	Marionette	INFO	Stopped listening on port 44351
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 446: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1617741547756	Marionette	INFO	Stopped listening on port 42921
+1617745405434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXtfI2n"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617745406672	Marionette	INFO	Listening on port 33211
+1617745406751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617745411157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8Ll27T"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617745412490	Marionette	INFO	Listening on port 33729
+1617745412575	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/api/config?cb=178a9241008", needed by: /common/boot.js?ver=1.0
+http://requirejs.org/docs/errors.html#scripterror
+1617745418900	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBAUxw2"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617745420298	Marionette	INFO	Listening on port 33871
+1617745420324	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+1617745424310	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilectYhyd"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617745425722	Marionette	INFO	Listening on port 44303
+1617745425859	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/api/config", needed by: /common/requireconfig.js
+http://requirejs.org/docs/errors.html#scripterror
+1617745430034	Marionette	INFO	Stopped listening on port 33729
+1617745431616	Marionette	INFO	Stopped listening on port 33871
+1617745431987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezbzM06"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617745433303	Marionette	INFO	Listening on port 40035
+1617745433404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/boot2.js"
+http://requirejs.org/docs/errors.html#scripterror
+1617745460076	Marionette	INFO	Stopped listening on port 40035
+1617745461575	Marionette	INFO	Stopped listening on port 44303
+1617745467102	Marionette	INFO	Stopped listening on port 33211
+1617745876863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBBDa32"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617745878132	Marionette	INFO	Listening on port 41817
+1617745878190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+1617745909149	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletlCK9U"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+JavaScript error: https://riot.im/app/bundles/6421c751c3aa2dc359ed/vendors~init.js, line 2: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617745910473	Marionette	INFO	Listening on port 45103
+1617745910573	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+1617745917146	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehfeOSv"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617745918557	Marionette	INFO	Listening on port 44471
+1617745918666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617745922322	Marionette	INFO	Stopped listening on port 45103
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+1617745923009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerux6oj"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617745924291	Marionette	INFO	Listening on port 44909
+1617745924329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617745927721	Marionette	INFO	Stopped listening on port 44471
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+1617745933927	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemVtWqh"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617745935402	Marionette	INFO	Listening on port 42249
+1617745935448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617745939170	Marionette	INFO	Stopped listening on port 44909
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+1617745939818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAwRjpP"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617745941162	Marionette	INFO	Listening on port 40219
+1617745941240	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+1617745946758	Marionette	INFO	Stopped listening on port 42249
+1617745947783	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebJ4H7x"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617745949251	Marionette	INFO	Listening on port 34043
+1617745949306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+1617745955457	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF32JT9"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+JavaScript error: https://s0.2mdn.net/8499737/1612290384781/index.html, line 278: TypeError: studio.Enabler is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617745956952	Marionette	INFO	Listening on port 33853
+1617745956977	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/boot2.js"
+http://requirejs.org/docs/errors.html#scripterror
+1617745963407	Marionette	INFO	Stopped listening on port 41817
+JavaScript error: , line 0: uncaught exception: undefined
+1617745965556	Marionette	INFO	Stopped listening on port 33853
+JavaScript error: resource://gre/modules/BackgroundPageThumbs.jsm, line 309: TypeError: this._captureQueue is undefined
+1617745970255	Marionette	INFO	Stopped listening on port 34043
+JavaScript error: https://nextcloud.com/wp-content/themes/next/node_modules/requirejs/require.min.js?x53054, line 17: Error: Script error for "velocityUI", needed by: modules/header
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1617746013918	Marionette	INFO	Stopped listening on port 40219
+1617746300906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9tfmVD"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617746302216	Marionette	INFO	Listening on port 44109
+1617746302329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617746305787	Marionette	INFO	Stopped listening on port 44109
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/boot.js?ver=1.0"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+1617746411501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ5mL98"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617746412765	Marionette	INFO	Listening on port 39805
+1617746412823	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617746416482	Marionette	INFO	Stopped listening on port 39805
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/boot2.js"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+1617746850016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb8zaQc"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617746851347	Marionette	INFO	Listening on port 46611
+1617746851442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617746855011	Marionette	INFO	Stopped listening on port 46611
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+1617747153564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenhc23P"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617747154797	Marionette	INFO	Listening on port 37803
+1617747154881	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617747158964	Marionette	INFO	Stopped listening on port 37803
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/boot2.js"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+1617747469581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqxpqQS"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617747470847	Marionette	INFO	Listening on port 45833
+1617747470899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/api/config", needed by: /common/requireconfig.js
+http://requirejs.org/docs/errors.html#scripterror
+1617747481732	Marionette	INFO	Stopped listening on port 45833
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1617747615598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFy9fyd"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617747617028	Marionette	INFO	Listening on port 43249
+1617747617148	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/api/config?cb=178a945b550", needed by: /common/boot.js?ver=1.0
+http://requirejs.org/docs/errors.html#scripterror
+1617747627483	Marionette	INFO	Stopped listening on port 43249
+JavaScript error: resource://gre/modules/BackgroundPageThumbs.jsm, line 309: TypeError: this._captureQueue is undefined
+1617747628849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile79b11C"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617747630150	Marionette	INFO	Listening on port 42417
+1617747630168	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+1617747638855	Marionette	INFO	Stopped listening on port 42417
+1617747640523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecoWPLf"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617747641840	Marionette	INFO	Listening on port 44549
+1617747641964	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+1617747650766	Marionette	INFO	Stopped listening on port 44549
+1617747652133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecE6Gi8"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617747653328	Marionette	INFO	Listening on port 35255
+1617747653351	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/api/config?cb=178a9464448", needed by: /common/boot.js?ver=1.0
+http://requirejs.org/docs/errors.html#scripterror
+1617747667370	Marionette	INFO	Stopped listening on port 35255
+JavaScript error: resource://gre/modules/BackgroundPageThumbs.jsm, line 309: TypeError: this._captureQueue is undefined
+1617747668854	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVjggKJ"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617747670216	Marionette	INFO	Listening on port 33659
+1617747670275	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/api/config?cb=178a9468520", needed by: /common/boot.js?ver=1.0
+http://requirejs.org/docs/errors.html#scripterror
+1617747678942	Marionette	INFO	Stopped listening on port 33659
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1617747680311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep5bU5W"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617747681669	Marionette	INFO	Listening on port 44935
+1617747681734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/boot.js?ver=1.0"
+http://requirejs.org/docs/errors.html#scripterror
+1617747692441	Marionette	INFO	Stopped listening on port 44935
+1617747693809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDVjcGz"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617747695134	Marionette	INFO	Listening on port 41177
+1617747695237	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/boot2.js"
+http://requirejs.org/docs/errors.html#scripterror
+1617747706013	Marionette	INFO	Stopped listening on port 41177
+1617816906796	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYHJbNb"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617816908109	Marionette	INFO	Listening on port 34507
+1617816908218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/api/config", needed by: /common/requireconfig.js
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+1617816980611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep7XDbD"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617816981861	Marionette	INFO	Listening on port 33331
+1617816981929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://riot.im/app/bundles/6421c751c3aa2dc359ed/vendors~init.js, line 2: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1617817035379	Marionette	INFO	Stopped listening on port 34507
+1617817036204	Marionette	INFO	Stopped listening on port 33331
+1617817256230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5ZwfkR"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617817257568	Marionette	INFO	Listening on port 39769
+1617817257649	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/api/config?cb=178ad6c574c", needed by: /common/boot.js?ver=1.0
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://riot.im/app/bundles/6421c751c3aa2dc359ed/vendors~init.js, line 2: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1617817361067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6C9QBJ"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617817362482	Marionette	INFO	Listening on port 44827
+1617817362586	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617817366289	Marionette	INFO	Stopped listening on port 39769
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://nextcloud.com/wp-content/themes/next/node_modules/requirejs/require.min.js?x53054, line 17: Error: Script error for "bodymovin", needed by: modules/header
+http://requirejs.org/docs/errors.html#scripterror
+1617817422049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB05iVx"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617817423314	Marionette	INFO	Listening on port 45311
+1617817423368	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617817425469	Marionette	INFO	Stopped listening on port 44827
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/api/config?cb=178ad6ede90", needed by: /common/boot.js?ver=1.0
+http://requirejs.org/docs/errors.html#scripterror
+1617817480139	Marionette	INFO	Stopped listening on port 45311
+1617817972509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX2Mmuk"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617817973800	Marionette	INFO	Listening on port 45845
+1617817973828	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://riot.im/app/bundles/6421c751c3aa2dc359ed/vendors~init.js, line 2: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1617818133986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKJQjhI"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617818135159	Marionette	INFO	Listening on port 39283
+1617818135206	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nextcloud.com/wp-content/themes/next/node_modules/requirejs/require.min.js?x53054, line 17: Error: Script error for "bodymovin", needed by: modules/header
+http://requirejs.org/docs/errors.html#scripterror
+1617818245567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePFHnWq"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617818246818	Marionette	INFO	Listening on port 34813
+1617818246884	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/api/config?cb=178ad7b6d04", needed by: /common/boot.js?ver=1.0
+http://requirejs.org/docs/errors.html#scripterror
+1617818256866	Marionette	INFO	Stopped listening on port 39283
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1617818260941	Marionette	INFO	Stopped listening on port 34813
+1617818265424	Marionette	INFO	Stopped listening on port 45845
+1617818267794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegMV579"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617818269059	Marionette	INFO	Listening on port 39731
+1617818269126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://nextcloud.com/wp-content/themes/next/node_modules/requirejs/require.min.js?x53054, line 17: Error: Script error for "pages/signup"
+http://requirejs.org/docs/errors.html#scripterror
+1617818449443	Marionette	INFO	Stopped listening on port 39731
+1617818458869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebY2Qiu"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617818460171	Marionette	INFO	Listening on port 44169
+1617818460289	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/api/config?cb=178ad7eb1bc", needed by: /common/boot.js?ver=1.0
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1617818478383	Marionette	INFO	Stopped listening on port 44169
+1617818488379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel13Oh7"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617818489683	Marionette	INFO	Listening on port 35031
+1617818489799	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/api/config?cb=178ad7f21d8", needed by: /common/boot.js?ver=1.0
+http://requirejs.org/docs/errors.html#scripterror
+1617818529540	Marionette	INFO	Stopped listening on port 35031
+1617820780210	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqAS1Uv"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617820781579	Marionette	INFO	Listening on port 41415
+1617820781628	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/api/config", needed by: /common/requireconfig.js
+http://requirejs.org/docs/errors.html#scripterror
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617820835059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOkrK7I"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617820836322	Marionette	INFO	Listening on port 40721
+1617820836391	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/api/config?cb=178ada2f360", needed by: /common/boot.js?ver=1.0
+http://requirejs.org/docs/errors.html#scripterror
+1617820846829	Marionette	INFO	Stopped listening on port 40721
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileOkrK7I/protections.sqlite
+1617820898435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTb7M2k"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617820899787	Marionette	INFO	Listening on port 44751
+1617820899857	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/api/config?cb=178ada3e914", needed by: /common/boot.js?ver=1.0
+http://requirejs.org/docs/errors.html#scripterror
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1617820912275	Marionette	INFO	Stopped listening on port 44751
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileTb7M2k/protections.sqlite
+1617820927454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileobZYcH"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617820928760	Marionette	INFO	Listening on port 37933
+1617820928872	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+1617820941963	Marionette	INFO	Stopped listening on port 37933
+1617821081250	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT7Xyfk"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617821082581	Marionette	INFO	Listening on port 44823
+1617821082676	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/boot.js?ver=1.0"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://riot.im/app/bundles/6421c751c3aa2dc359ed/vendors~init.js, line 2: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617825587326	Marionette	INFO	Stopped listening on port 44823
+1618334827303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1IyWNZ"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618334828695	Marionette	INFO	Listening on port 44871
+1618334828724	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+1618334874664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletSqK1x"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618334875929	Marionette	INFO	Listening on port 33555
+1618334875986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+1618334887858	Marionette	INFO	Stopped listening on port 33555
+JavaScript error: https://nextcloud.com/wp-content/themes/next/node_modules/requirejs/require.min.js?x53054, line 17: Error: Script error for "velocityUI", needed by: modules/header
+http://requirejs.org/docs/errors.html#scripterror
+1618334950239	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB9FmCb"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618334951590	Marionette	INFO	Listening on port 41501
+1618334951658	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1618334953844	Marionette	INFO	Stopped listening on port 44871
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+1618334957515	Marionette	INFO	Stopped listening on port 41501
+1618335405932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK4Jq8E"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618335407164	Marionette	INFO	Listening on port 35009
+1618335407250	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/api/config?cb=178cc4ead2c", needed by: /common/boot.js?ver=1.0
+http://requirejs.org/docs/errors.html#scripterror
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1618335423939	Marionette	INFO	Stopped listening on port 35009
+1618335452247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2CpJOe"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618335453472	Marionette	INFO	Listening on port 43579
+1618335453565	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1618335486305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMptQBJ"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618335487600	Marionette	INFO	Listening on port 38923
+1618335487627	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618335489147	Marionette	INFO	Stopped listening on port 43579
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+1618335493673	Marionette	INFO	Stopped listening on port 38923
+JavaScript error: resource://gre/modules/BackgroundPageThumbs.jsm, line 309: TypeError: this._captureQueue is undefined
+1618335509132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebLYC0Z"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618335510368	Marionette	INFO	Listening on port 41357
+1618335510450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1618336133743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVmgTjD"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618336135105	Marionette	INFO	Listening on port 43759
+1618336135161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+1618336147959	Marionette	INFO	Stopped listening on port 43759
+1618339511295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQdxaAJ"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618339512543	Marionette	INFO	Listening on port 39353
+1618339512615	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1618339538527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGffsce"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618339539884	Marionette	INFO	Listening on port 39987
+1618339539947	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/boot.js?ver=1.0"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://riot.im/app/bundles/365a72cf9c29f7e25e25/vendors~init.js, line 2: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://nextcloud.com/wp-content/themes/next/node_modules/requirejs/require.min.js?x53054, line 17: Error: Script error for "bodymovin", needed by: modules/header
+http://requirejs.org/docs/errors.html#scripterror
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618343345441	Marionette	INFO	Stopped listening on port 39987
+1618343520217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3O2ybP"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618343521632	Marionette	INFO	Listening on port 33943
+1618343521772	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/api/config?cb=178ccca7da8", needed by: /common/boot.js?ver=1.0
+http://requirejs.org/docs/errors.html#scripterror
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618344144374	Marionette	INFO	Stopped listening on port 33943
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1618344150743	Marionette	INFO	Stopped listening on port 39353
+1618344154965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ6NtfT"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618344156283	Marionette	INFO	Listening on port 32859
+1618344156401	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+1618344574775	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618344587040	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618344613911	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618344626202	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618344689503	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618344700980	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618344751665	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618344814788	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618344826209	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618344992501	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618345005062	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618345030459	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618345080113	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618345129924	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618345142848	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618345194381	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618345207485	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618345259781	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618345272117	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618345802365	Marionette	INFO	Stopped listening on port 32859
+1618346313367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeFggYK"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618346314572	Marionette	INFO	Listening on port 43537
+1618346314689	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/api/config?cb=178ccf51c34", needed by: /common/boot.js?ver=1.0
+http://requirejs.org/docs/errors.html#scripterror
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1618346324282	Marionette	INFO	Stopped listening on port 43537
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+1618346355152	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecbMWIX"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618346356385	Marionette	INFO	Listening on port 39277
+1618346356470	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1618346638522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNDnP7Q"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618346639899	Marionette	INFO	Listening on port 36735
+1618346639941	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://riot.im/app/bundles/365a72cf9c29f7e25e25/vendors~init.js, line 2: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1618347392224	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUxHeYZ"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618347393558	Marionette	INFO	Listening on port 42581
+1618347393645	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://openbenchmarking.org/s/Intel+Core+i7-1065G7 line 1 > injectedScript, line 3: SyntaxError: JSON.parse: expected ',' or '}' after property value in object at line 1 column 14614 of the JSON data
+1618351015683	Marionette	INFO	Stopped listening on port 42581
+1618450219336	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG4A5OA"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618450220619	Marionette	INFO	Listening on port 42073
+1618450220656	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/requireconfig.js", needed by: /common/boot2.js
+http://requirejs.org/docs/errors.html#scripterror
+1618450226237	Marionette	INFO	Stopped listening on port 42073
+1618450227654	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile615kY3"
+1618450227654	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRvHc2C"
+1618450227655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLCuYoA"
+1618450227655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefS2mxM"
+1618450227656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSOYsfJ"
+1618450227657	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDL39u7"
+1618450227658	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemQ3829"
+1618450227663	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelKjGKA"
+1618450227664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuFIlk8"
+1618450227664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoD3Q4G"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.error: Enterprise Policies: 
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+  Error parsing JSON file
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618450231859	Marionette	INFO	Listening on port 39305
+1618450231903	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618450232322	Marionette	INFO	Listening on port 46779
+1618450232447	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618450232573	Marionette	INFO	Listening on port 39753
+1618450232622	Marionette	INFO	Listening on port 46749
+1618450232651	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618450232691	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618450232778	Marionette	INFO	Listening on port 40039
+1618450232842	Marionette	INFO	Listening on port 40757
+1618450232859	Marionette	INFO	Listening on port 44543
+1618450232931	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618450232934	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618450232956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618450232999	Marionette	INFO	Listening on port 36019
+1618450233097	Marionette	INFO	Listening on port 43345
+1618450233117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618450233158	Marionette	INFO	Listening on port 33171
+1618450233204	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618450233208	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://parrotsec.org/plugins/bootstrap/bootstrap.min.js, line 6: TypeError: g is undefined
+JavaScript error: https://parrotsec.org/plugins/slick/slick.min.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://parrotsec.org/plugins/magnific-popup/jquery.magnific-popup.min.js, line 4: TypeError: a is not a function
+JavaScript error: https://parrotsec.org/js/custom.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://parrotsec.org/js/script.min.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://riot.im/app/bundles/365a72cf9c29f7e25e25/vendors~init.js, line 2: Error: Failed to write logs: undefined
+JavaScript error: https://riot.im/app/bundles/365a72cf9c29f7e25e25/vendors~init.js, line 2: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://nextcloud.com/wp-content/themes/next/node_modules/requirejs/require.min.js?x53054, line 17: Error: Script error for "pages/signup"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://nextcloud.com/wp-content/themes/next/node_modules/requirejs/require.min.js?x53054, line 17: Error: Script error for "TweenMax", needed by: main
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://nextcloud.com/wp-content/themes/next/node_modules/requirejs/require.min.js?x53054, line 17: Error: Script error for "jquery", needed by: modules/header, main, overlay, modules/cookieconsent
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://nextcloud.com/wp-content/themes/next/node_modules/requirejs/require.min.js?x53054, line 17: Error: Script error for "headroom", needed by: modules/header
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://nextcloud.com/wp-content/themes/next/node_modules/requirejs/require.min.js?x53054, line 17: Error: Script error for "lodash", needed by: modules/header, main
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: https://nextcloud.com/wp-content/themes/next/node_modules/requirejs/require.min.js?x53054, line 17: Error: Script error for "bodymovin", needed by: modules/header
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://nextcloud.com/wp-content/themes/next/node_modules/requirejs/require.min.js?x53054, line 17: Error: Script error for "pages/signup"
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: https://nextcloud.com/wp-content/themes/next/node_modules/requirejs/require.min.js?x53054, line 17: Error: Script error for "pages/signup"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://nextcloud.com/wp-content/themes/next/node_modules/requirejs/require.min.js?x53054, line 17: Error: Script error for "bodymovin", needed by: modules/header
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://nextcloud.com/wp-content/themes/next/node_modules/requirejs/require.min.js?x53054, line 17: Error: Script error for "pages/signup"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://nextcloud.com/wp-content/themes/next/node_modules/requirejs/require.min.js?x53054, line 17: Error: Script error for "velocityUI", needed by: modules/header
+http://requirejs.org/docs/errors.html#scripterror
+1618450424030	Marionette	INFO	Stopped listening on port 36019
+1618450424685	Marionette	INFO	Stopped listening on port 40039
+1618450424757	Marionette	INFO	Stopped listening on port 39753
+1618450429011	Marionette	INFO	Stopped listening on port 46749
+1618450429233	Marionette	INFO	Stopped listening on port 44543
+1618450431909	Marionette	INFO	Stopped listening on port 39305
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1618450433572	Marionette	INFO	Stopped listening on port 46779
+1618450440663	Marionette	INFO	Stopped listening on port 43345
+1618450584021	Marionette	INFO	Stopped listening on port 33171
+1618450606571	Marionette	INFO	Stopped listening on port 40757

@@ -1,0 +1,95 @@
+Cpu name,Cores,Frec(MHZ),Threads,Percentile,AVG
+AMD EPYC 7601 32-Core Processor,32,2200,64,99th,3
+AMD Ryzen Threadripper 3970X 32-Core Processor,32,2200,64,99th,3
+Intel(R) Xeon(R) Gold 6252N CPU @ 2.30GHz,24,2457,48,98th,3
+AMD Ryzen Threadripper 2990WX 32-Core Processor,32,2003,64,96th,4
+Intel(R) Xeon(R) Gold 5220R CPU @ 2.20GHz,18,1000,36,96th,4
+AMD EPYC 7502 32-Core Processor,32,1796,64,96th,4
+AMD Ryzen Threadripper 2970WX 24-Core Processor,24,2200,48,95th,5
+AMD EPYC 7601 32-Core Processor,32,2195,64,94th,5
+AMD Ryzen 9 5950X 16-Core Processor,16,2200,32,94th,5
+AMD Ryzen 9 3950X 16-Core Processor,16,2106,32,91st,5
+Intel(R) Xeon(R) CPU E5-2682 v4 @ 2.50GHz,16,2492,32,91st,6
+AMD Ryzen Threadripper 2950X 16-Core Processor,16,2473,32,87th,7
+Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz,10,3700,20,87th,7
+Intel(R) Core(TM) i9-7960X CPU @ 2.80GHz,16,2800,32,87th,7
+Intel(R) Xeon(R) W-2295 CPU @ 3.00GHz,18,1647,36,85th,7
+AMD Ryzen Threadripper 1950X 16-Core Processor,16,3399,32,85th,7
+AMD Ryzen 9 3900X 12-Core Processor,12,4054,24,84th,8
+Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz,10,3700,20,83rd,8
+AMD EPYC 7702 64-Core Processor,64,1417,128,83rd,8
+AMD Ryzen Threadripper 2920X 12-Core Processor,12,2239,24,82nd,8
+AMD EPYC 7351P 16-Core Processor,16,2395,32,81st,9
+11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz,8,3500,16,80th,9
+AMD Ryzen 7 5800X 8-Core Processor,8,2236,16,80th,9
+AMD Ryzen 7 3800XT 8-Core Processor,8,2794,16,78th,10
+AMD EPYC 7281 16-Core Processor,16,2096,32,77th,10
+Intel(R) Core(TM) i7-7900X CPU @ 3.30GHz,10,3300,20,76th,11
+Intel(R) Core(TM) i9-9900KS CPU @ 4.00GHz,8,4994,16,76th,11
+AMD Ryzen 7 3700X 8-Core Processor,8,2123,16,76th,11
+AMD EPYC 7662 64-Core Processor,64,1497,128,76th,11
+Intel(R) Core(TM) i9-9820X CPU @ 3.30GHz,10,1200,20,75th,11
+AMD Ryzen 7 3800X 8-Core Processor,8,4199,16,74th,12
+AMD Ryzen 7 2700X Eight-Core Processor,8,4157,16,73rd,12
+AMD Ryzen 5 5600X 6-Core Processor,6,3579,12,73rd,12
+AMD EPYC 7552 48-Core Processor,48,1340,96,72nd,12
+AMD EPYC 7502P 32-Core Processor,32,1473,64,71st,12
+11th Gen Intel(R) Core(TM) i5-11600K @ 3.90GHz,6,3900,12,71st,12
+AMD EPYC 7542 32-Core Processor,32,1465,64,71st,13
+AMD Ryzen 7 1700 Eight-Core Processor,8,1550,16,70th,13
+AMD Ryzen 7 2700 Eight-Core Processor,8,3702,16,70th,13
+AMD Ryzen 7 1800X Eight-Core Processor,8,2200,16,69th,14
+AMD EPYC 7352 24-Core Processor,24,1496,48,68th,14
+AMD EPYC 7532 32-Core Processor,32,1390,64,67th,14
+Intel(R) Core(TM) i5-10600K CPU @ 4.10GHz,6,4556,12,67th,14
+AMD Ryzen 5 3600X 6-Core Processor,6,2349,12,67th,14
+AMD EPYC 7272 12-Core Processor,12,1347,24,65th,15
+AMD Ryzen 5 2600X Six-Core Processor,6,3972,12,64th,16
+Intel(R) Core(TM) i7-5960X CPU @ 3.00GHz,8,1407,16,63rd,16
+AMD EPYC 7232P 8-Core Processor,8,1495,16,61st,18
+AMD Ryzen 7 4700U with Radeon Graphics,8,1915,8,60th,19
+AMD Ryzen 5 1600 Six-Core Processor,6,4242,12,60th,19
+AMD Ryzen 5 2600 Six-Core Processor,6,3225,12,60th,19
+AMD EPYC 7F32 8-Core Processor,8,1950,16,60th,19
+AMD EPYC 7252 8-Core Processor,8,1477,16,60th,19
+Intel(R) Xeon(R) Silver 4108 CPU @ 1.80GHz,8,1800,16,57th,21
+Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz,6,1043,6,56th,22
+Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz,4,4499,8,55th,23
+Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz,4,3795,8,55th,23
+AMD Ryzen 5 3400G with Radeon Vega Graphics,4,2073,8,54th,24
+Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz,8,2162,8,54th,24
+AMD Ryzen 5 4500U with Radeon Graphics,6,1400,6,53rd,26
+AMD Ryzen 5 2400G with Radeon Vega Graphics,4,1581,8,53rd,26
+Intel(R) Xeon(R) CPU E3-1240 v5 @ 3.50GHz,4,3500,8,50th,27
+Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz,4,4401,4,50th,27
+Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz,4,3699,8,49th,28
+AMD Ryzen 5 1400 Quad-Core Processor,4,1550,8,49th,28
+Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz,4,4005,8,48th,29
+Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz,4,4186,4,47th,30
+Intel(R) Core(TM) i7-6820HQ CPU @ 2.70GHz,4,799,8,44th,32
+Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz,4,3801,4,44th,33
+Intel(R) Core(TM) i3-9100F CPU @ 3.60GHz,4,2657,4,43rd,33
+Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz,4,2100,8,43rd,34
+AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx,4,1280,8,41st,36
+AMD Ryzen 3 2200G with Radeon Vega Graphics,4,1478,4,41st,36
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,3629,4,40th,38
+Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz,4,847,4,39th,39
+Intel(R) Core(TM) i5-6600 CPU @ 3.30GHz,4,800,4,38th,39
+Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz,4,3201,4,38th,39
+Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz,4,2794,8,38th,39
+Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz,4,2909,8,37th,41
+Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz,4,1685,8,37th,42
+Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz,4,2501,8,36th,42
+AMD Athlon 3000G with Radeon Vega Graphics,2,1986,4,31st,52
+Loongson-3A5000,4,-1,4,28th,66
+Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz,2,2900,4,28th,67
+Intel(R) Core(TM) i7-5600U CPU @ 2.60GHz,2,2624,4,28th,67
+AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx,2,1694,4,26th,74
+Intel(R) Core(TM) i7-4600U CPU @ 2.10GHz,2,2700,4,26th,75
+Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz,2,2400,4,24th,80
+Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz,2,2676,4,24th,83
+AMD A10-7850K APU with Radeon(TM) R7 Graphics,2,1696,4,23rd,84
+Intel(R) Xeon(R) D-2191 CPU @ 1.60GHz,18,800,36,22nd,87
+Intel(R) Xeon(R) Platinum 8163 CPU @ 2.50GHz,24,1000,48,12th,139
+Intel(R) Atom(TM) x5-Z8350  CPU @ 1.44GHz,4,1679,4,6th,233
+Loongson-3A R3 (Loongson-3A3000) @ 1400MHz,4,-1,4,3rd,305

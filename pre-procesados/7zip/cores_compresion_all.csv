@@ -1,0 +1,186 @@
+Cpu name,Cores,Average
+AMD EPYC 7713 64-Core Processor,64,423919
+AMD EPYC 75F3 32-Core Processor,32,342873
+AMD EPYC 7642 48-Core Processor,48,320895
+AMD EPYC 7763 64-Core Processor,64,310761
+AMD EPYC 7713 64-Core Processor,64,289261
+AMD EPYC 7662 64-Core Processor,64,267323
+AMD EPYC 7702 64-Core Processor,64,262153
+AMD EPYC 7502 32-Core Processor,32,255912
+Intel(R) Xeon(R) Platinum 8280 CPU @ 2.70GHz,28,239665
+AMD EPYC 7552 48-Core Processor,48,227882
+AMD EPYC 7642 48-Core Processor,48,223769
+Intel(R) Xeon(R) Gold 6230R CPU @ 2.10GHz,26,203939
+AMD Ryzen Threadripper 3990X 64-Core Processor,64,179399
+Intel(R) Xeon(R) Gold 6152 CPU @ 2.10GHz,22,176748
+AMD EPYC 7542 32-Core Processor,32,176573
+Intel(R) Xeon(R) Gold 6230N CPU @ 2.30GHz,20,172157
+AMD EPYC 7502P 32-Core Processor,32,170834
+AMD EPYC 7532 32-Core Processor,32,169514
+AMD EPYC 7502 32-Core Processor,32,169295
+AMD EPYC 7452 32-Core Processor,32,159462
+AMD EPYC 7F72 24-Core Processor,24,150631
+Intel(R) Xeon(R) Gold 5220R CPU @ 2.20GHz,18,145265
+Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz,18,144152
+Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz,20,142432
+AMD EPYC 7402 24-Core Processor,24,139897
+AMD EPYC 7402P 24-Core Processor,24,138977
+Intel(R) Xeon(R) Platinum 8280 CPU @ 2.70GHz,28,137907
+Intel(R) Xeon(R) Gold 6258R CPU @ 2.70GHz,28,136842
+Intel(R) Xeon(R) Gold 6130 CPU @ 2.10GHz,16,131815
+AMD EPYC 7352 24-Core Processor,24,125804
+AMD EPYC 7501 32-Core Processor,32,125571
+AMD EPYC 7F52 16-Core Processor,16,108491
+Intel(R) Xeon(R) CPU E5-2683 v4 @ 2.10GHz,16,108404
+AMD EPYC 7371 16-Core Processor,16,106584
+Intel(R) Core(TM) i9-10980XE CPU @ 3.00GHz,18,100696
+AMD Ryzen 9 5950X 16-Core Processor,16,100468
+AMD EPYC 7601 32-Core Processor,32,99174
+AMD Ryzen 9 3950X 16-Core Processor,16,99026
+AMD EPYC 7302 16-Core Processor,16,95552
+AMD EPYC 7302P 16-Core Processor,16,94926
+AMD Ryzen 9 5900X 12-Core Processor,12,93430
+Intel(R) Xeon(R) Gold 6210U CPU @ 2.50GHz,20,93177
+AMD EPYC 7F32 8-Core Processor,8,91444
+AMD EPYC 7282 16-Core Processor,16,90909
+AMD EPYC 7301 16-Core Processor,16,88608
+Intel(R) Core(TM) i9-7960X CPU @ 2.80GHz,16,86240
+Intel(R) Xeon(R) Gold 6226R CPU @ 2.90GHz,16,84826
+Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz,20,81174
+Intel(R) Xeon(R) Gold 5220R CPU @ 2.20GHz,18,80864
+AMD Ryzen 9 3900X 12-Core Processor,12,80063
+AMD EPYC 7401P 24-Core Processor,24,78466
+AMD Ryzen 9 3900XT 12-Core Processor,12,77657
+AMD Ryzen Threadripper 2950X 16-Core Processor,16,74599
+Intel(R) Xeon(R) Silver 4114 CPU @ 2.20GHz,10,72863
+AMD EPYC 7272 12-Core Processor,12,69422
+Intel(R) Xeon(R) Gold 5218 CPU @ 2.30GHz,16,67461
+AMD Ryzen 7 5800X 8-Core Processor,8,67352
+Intel(R) Xeon(R) Silver 4216 CPU @ 2.10GHz,16,66830
+Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz,10,64546
+AMD EPYC 7351P 16-Core Processor,16,62460
+Intel(R) Core(TM) i7-7900X CPU @ 3.30GHz,10,61527
+11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz,8,58250
+AMD Ryzen 7 3700X 8-Core Processor,8,56376
+AMD EPYC 7F32 8-Core Processor,8,56318
+Intel(R) Xeon(R) Silver 4214R CPU @ 2.40GHz,12,56141
+AMD Ryzen 7 3800X 8-Core Processor,8,55967
+Intel(R) Xeon(R) Silver 4110 CPU @ 2.10GHz,8,55720
+AMD Ryzen 5 5600X 6-Core Processor,6,54551
+Intel(R) Core(TM) i9-7900X CPU @ 3.30GHz,10,54157
+Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz,8,53501
+Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz,8,53271
+Intel(R) Core(TM) i9-9900KS CPU @ 4.00GHz,8,53026
+Intel(R) Xeon(R) E-2288G CPU @ 3.70GHz,8,48695
+AMD EPYC 7252 8-Core Processor,8,47128
+AMD EPYC 7232P 8-Core Processor,8,45969
+AMD EPYC 7262 8-Core Processor,8,45509
+11th Gen Intel(R) Core(TM) i5-11600K @ 3.90GHz,6,44645
+Intel(R) Xeon(R) CPU E5-2687W v3 @ 3.10GHz,10,44374
+AMD Ryzen 5 3600X 6-Core Processor,6,43808
+Intel(R) Xeon(R) Silver 4215R CPU @ 3.20GHz,8,43333
+Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz,8,42703
+Intel(R) Core(TM) i7-8086K CPU @ 4.00GHz,6,42214
+Intel(R) Xeon(R) CPU           X5670  @ 2.93GHz,6,42133
+Intel(R) Xeon(R) Gold 5217 CPU @ 3.00GHz,8,41855
+Intel(R) Xeon(R) Silver 4210 CPU @ 2.20GHz,10,41744
+Intel(R) Core(TM) i5-10600K CPU @ 4.10GHz,6,41587
+Intel(R) Core(TM) i7-10875H CPU @ 2.30GHz,8,41405
+Intel(R) Xeon(R) CPU E5-2637 v4 @ 3.50GHz,4,41099
+AMD Ryzen 7 4800H with Radeon Graphics,8,40663
+Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz,6,40427
+AMD Ryzen 7 2700X Eight-Core Processor,8,40300
+Intel(R) Xeon(R) CPU E5-1680 v3 @ 3.20GHz,8,39230
+Intel(R) Xeon(R) E-2286M  CPU @ 2.40GHz,8,39227
+AMD Ryzen 5 PRO 4650G with Radeon Graphics,6,37916
+AMD Ryzen 7 1700X Eight-Core Processor,8,37572
+AMD Ryzen 7 1800X Eight-Core Processor,8,37446
+Intel(R) Core(TM) i7-5960X CPU @ 3.00GHz,8,37436
+AMD Ryzen 7 2700 Eight-Core Processor,8,35839
+Intel(R) Xeon(R) E-2278GEL CPU @ 2.00GHz,8,33372
+AMD Ryzen 7 1700 Eight-Core Processor,8,33255
+AMD Ryzen 5 2600X Six-Core Processor,6,32831
+Intel(R) Core(TM) i7-5930K CPU @ 3.50GHz,6,32706
+AMD Ryzen 3 3100 4-Core Processor,4,32636
+Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz,6,31380
+Intel(R) Core(TM) i9-8950HK CPU @ 2.90GHz,6,31313
+AMD EPYC 7251 8-Core Processor,8,30917
+AMD Ryzen 3 3300X 4-Core Processor,4,30630
+Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz,6,30528
+AMD Ryzen 5 2600 Six-Core Processor,6,30266
+Intel(R) Core(TM) i7-4960X CPU @ 3.60GHz,6,29890
+Intel(R) Xeon(R) Silver 4108 CPU @ 1.80GHz,8,29812
+AMD Ryzen 7 4700U with Radeon Graphics,8,29271
+AMD Ryzen 5 1600X Six-Core Processor,6,28903
+Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz,4,28539
+AMD Ryzen 5 1600 Six-Core Processor,6,28429
+Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz,4,26079
+Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz,6,25981
+Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz,4,25316
+Intel(R) Xeon(R) CPU E3-1270 v5 @ 3.60GHz,4,24952
+Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz,6,24778
+Intel(R) Xeon(R) CPU E3-1275 v6 @ 3.80GHz,4,24559
+Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz,4,24410
+Intel(R) Xeon(R) CPU           X5675  @ 3.07GHz,6,24373
+Intel(R) Xeon(R) CPU E3-1245 v5 @ 3.50GHz,4,24350
+Intel(R) Core(TM) i7-9700TE CPU @ 1.80GHz,8,24230
+AMD Ryzen 5 4500U with Radeon Graphics,6,23797
+Intel(R) Xeon(R) CPU E3-1260L v5 @ 2.90GHz,4,23758
+Intel(R) Core(TM) i7-5775C CPU @ 3.30GHz,4,23448
+Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz,4,23058
+Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz,6,22971
+11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz,4,21660
+AMD FX-8370 Eight-Core Processor,4,21474
+AMD FX(tm)-8350 Eight-Core Processor,4,21315
+Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz,4,21308
+Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz,4,20941
+Intel(R) Xeon(R) CPU E3-1505M v6 @ 3.00GHz,4,20696
+AMD FX(tm)-8320 Eight-Core Processor,4,19873
+Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz,4,19433
+AMD Ryzen 5 3400G with Radeon Vega Graphics,4,19245
+Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz,4,19227
+Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz,4,19013
+Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz,4,18812
+Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz,4,18659
+AMD Ryzen 5 2400G with Radeon Vega Graphics,4,18302
+Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz,4,18003
+Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,4,17736
+Intel(R) Core(TM) i7-4810MQ CPU @ 2.80GHz,4,17686
+Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz,4,17498
+Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz,4,17491
+Intel(R) Xeon(R) CPU E5-2609 v4 @ 1.70GHz,8,17488
+Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz,4,17470
+Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz,4,16676
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,4,16566
+AMD Ryzen 3 1300X Quad-Core Processor,4,16422
+Intel(R) Core(TM) i5-4670 CPU @ 3.40GHz,4,16299
+Intel(R) Xeon(R) CPU D-1521 @ 2.40GHz,4,15926
+AMD Ryzen 3 2200G with Radeon Vega Graphics,4,15372
+Intel(R) Core(TM) i5-6600 CPU @ 3.30GHz,4,15363
+Intel(R) Xeon(R) CPU E5-2403 v2 @ 1.80GHz,4,15331
+Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz,4,15205
+Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz,4,15086
+Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz,4,15042
+AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx,4,14985
+Intel(R) Xeon(R) CPU E3-1235L v5 @ 2.00GHz,4,13044
+Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz,2,13020
+Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz,4,12982
+Intel(R) Core(TM) i7-7600U CPU @ 2.80GHz,2,12367
+Loongson-3A5000,4,11574
+"AMD A10-7870K Radeon R7, 12 Compute Cores 4C+8G",2,11452
+Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz,2,10842
+Intel(R) Xeon(R) Platinum 8124M CPU @ 3.00GHz,8,10687
+Intel(R) Core(TM) i7-5600U CPU @ 2.60GHz,2,9719
+Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,2,9218
+Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz,2,8955
+Intel(R) Pentium(R) CPU G3258 @ 3.20GHz,2,8296
+Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz,2,7951
+Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz,2,7616
+Intel(R) Celeron(R) G5900 CPU @ 3.40GHz,2,7447
+Intel(R) Celeron(R) J4105 CPU @ 1.50GHz,4,7082
+Intel(R) Celeron(R) CPU J3455 @ 1.50GHz,4,5818
+Intel(R) Pentium(R) CPU  N3540  @ 2.16GHz,4,5104
+AMD Athlon(tm) 5350 APU with Radeon(tm) R3,4,4805
+C-QuadCore C4610@2.0GHz,1,3810
+Intel(R) Atom(TM) x5-Z8350  CPU @ 1.44GHz,4,3534
+Intel(R) Celeron(R) CPU  N3050  @ 1.60GHz,2,2330
